@@ -1,0 +1,51 @@
+format,region,id,type,zip
+Non-plus,NORTH WEST FOOD/DRUG,store-6,store,76401-3928
+Non-plus,BORDER,store-9,store,78537-3148
+Plus,BORDER,store-13,store,78582-4815
+Plus,CNTRL TEXAS,store-14,store,78640-6038
+Plus,NORTH WEST FOOD/DRUG,store-16,store,76028-5154
+Non-plus,HOUS FOOD/DRUG,store-17,store,77515-3908
+Plus,SAN ANTONIO,store-19,store,78052-3622
+Non-plus,HOUS FOOD/DRUG,store-20,store,77429-5683
+Non-plus,GULF COAST,store-22,store,78380-3352
+Plus,CNTRL TEXAS,store-24,store,78726-1168
+Non-plus,SAN ANTONIO,store-25,store,78114-1851
+Plus,SAN ANTONIO,store-26,store,78223-1717
+Non-plus,HOUS FOOD/DRUG,store-28,store,77573-6750
+Non-plus,CNTRL TEXAS,store-34,store,78664-4642
+Non-plus,HOUS FOOD/DRUG,store-35,store,77630-2332
+Plus,BORDER,store-38,store,78589-3734
+Plus,NORTH WEST FOOD/DRUG,store-39,store,76513-1519
+Plus,HOUS FOOD/DRUG,store-48,store,77706-7213
+Non-plus,HOUS FOOD/DRUG,store-50,store,0-0
+Non-plus,NORTH WEST FOOD/DRUG,store-51,store,79720-5437
+Non-plus,HOUS FOOD/DRUG,store-53,store,77619-2725
+Non-plus,HOUS FOOD/DRUG,store-54,store,77075-2246
+Central Market,CENTRAL MARKET DIVISION,store-55,store,76092-6420
+Plus,GULF COAST,store-57,store,78418-4426
+Central Market,CENTRAL MARKET DIVISION,store-61,store,78756-3733
+Plus,HOUS FOOD/DRUG,store-63,store,77584-2191
+Non-plus,NORTH WEST FOOD/DRUG,store-64,store,76708-1675
+Mi Tienda,MI TIENDA,store-66,store,77587-3752
+Non-plus,CNTRL TEXAS,store-68,store,78749-6507
+Plus,GULF COAST,store-69,store,78413-2816
+Non-plus,NORTH WEST FOOD/DRUG,store-70,store,79605-5171
+Non-plus,NORTH WEST FOOD/DRUG,store-71,store,76504-2448
+Non-plus,SAN ANTONIO,store-74,store,78130-4753
+Convenience,CONVENIENCE STORES,store-79,store,78114-1851
+Plus,SAN ANTONIO,store-84,store,78224-1136
+Plus,SAN ANTONIO,store-85,store,78251-3312
+Non-plus,HOUS FOOD/DRUG,store-86,store,77642-3671
+Non-plus,BORDER,store-88,store,78840-5824
+Non-plus,HOUS FOOD/DRUG,store-90,store,77080-0
+Plus,CNTRL TEXAS,store-91,store,78741-3037
+Plus,GULF COAST,store-92,store,77904-1767
+Plus,BORDER,store-94,store,78572-8354
+Plus,BORDER,store-95,store,78045-6596
+Non-plus,CNTRL TEXAS,store-96,store,78731-3023
+Non-plus,HOUS FOOD/DRUG,store-99,store,77070-1667
+Convenience,CONVENIENCE STORES,store-101,store,78664-9730
+DC,SAN ANTONIO,dc-1,dc,78218-9999
+DC,TEMPLE,dc-2,dc,76504-9999
+DC,HOUSTON,dc-3,dc,77041-9999
+DC,SAN MARCOS,dc-4,dc,78666-9999
