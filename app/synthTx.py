@@ -1,3 +1,4 @@
+import generate_tx.py
 from fastapi import FastAPI, File, UploadFile
 import uvicorn
 from enum import Enum
@@ -26,6 +27,16 @@ app = FastAPI(
     summary='none',
     version='25.01',
 )
+OUTPUT = '/content/drive/MyDrive/1Colab/synthcurve/output/transactions.json'
+
+  transactions = SynthRetailOrders(customer_count=25)
+  tx = transactions.generateTx(order_count=10000)
+  print(f'Got {len(tx)} orders')
+  print(json.dumps(tx, indent=2))
+
+  with open(OUTPUT, 'w') as f:
+    for row in tx:
+      f.write(json.dumps(row) + '\n')
 
 @app.get("/")
 async def index():
