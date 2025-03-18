@@ -21,10 +21,10 @@ docai_client = documentai.DocumentProcessorServiceClient(
 RESOURCE_NAME = docai_client.processor_path(PROJECT_ID, LOCATION, PROCESSOR_ID)
 
 app = FastAPI(
-  title='API Catalog',
-    description='Catalog of all useful helper APIs',
+  title='SynthTx,
+    description='Synthetic Retail Transactional data generator',
     summary='none',
-    version='23.01',
+    version='25.01',
 )
 
 @app.get("/")
@@ -33,12 +33,23 @@ async def index():
 
 
 @app.post(
-  '/v1/nl2sql/',
-  summary='Convert natural language to query.',
-  description='This API extracts the schema of the required tables to make the returned SQL specific & optimized for BigQuery.',
+  '/v1/generate/',
+  summary='Generates synthetic transactional data.',
+  description='This API uses several default parameters to generate synthetic data.  You can supply values to override the params to suit yur needs.',
 )
-async def nl2sql(dataset:str, nl:str):
-  return("wip")
+async def generate(order_count=1000,
+                customer_count=50,
+                sku_count=100,
+                catalog=None,
+                store_ratio=0.6,
+                start_date=datetime.date(2023,1,1),
+                end_date=datetime.date(2023,12,31),
+                curve="normal",
+                format="JSON",
+):
+
+  
+  return("generation wip")
 
 @app.post(
   '/v1/parsePDF/',
