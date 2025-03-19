@@ -30,4 +30,4 @@ async def index():
   
 
 if __name__ == "__main__":
-  uvicorn.run("gretail:app", host="0.0.0.0", reload=True,   port=8080)
+  uvicorn.run("synthTx:app", host="0.0.0.0", reload=True,   port=8080)
