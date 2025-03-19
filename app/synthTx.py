@@ -26,31 +26,7 @@ async def index():
   return("Hello world!")
 
 
-@app.post(
-  '/v1/generate/',
-  summary='Generates synthetic transactional data.',
-  description='This API uses several default parameters to generate synthetic data.  You can supply values to override the params to suit yur needs.',
-)
-async def generate(order_count=1000,
-                customer_count=50,
-                sku_count=100,
-                catalog=None,
-                store_ratio=0.6,
-                start_date=datetime.date(2023,1,1),
-                end_date=datetime.date(2023,12,31),
-                curve="normal",
-                format="JSON",
-):
 
-  transactions = SynthRetailOrders()
-  tx = transactions.generateTx(order_count=10000)
-  print(f'Got {len(tx)} orders')
-  print(json.dumps(tx, indent=2))
-
-  with open(OUTPUT, 'w') as f:
-    for row in tx:
-      f.write(json.dumps(row) + '\n')
-return(f'Output is {tx}'
   
 
 if __name__ == "__main__":
