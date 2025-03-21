@@ -1,0 +1,801 @@
+dept,sku,description,price
+Texas Roots,0002-3450,H-E-B Texas Roots Fresh Juicing Oranges,5.17
+Texas Roots,0003-3451,H-E-B Texas Roots Fresh Grapefruit,6.22
+Texas Roots,0004-3452,H-E-B Texas Roots Small Grapefruit,0.92
+Texas Roots,0005-3453,H-E-B Organics Texas Roots Portabella Cap Mushrooms,7.26
+Texas Roots,0006-3454,H-E-B Texas Roots Fresh Oranges - Texas-Size Pack,8.3
+Lettuce & leafy greens,0048-3452,"H-E-B Kindly Cultivated Fresh Organic Butter Lettuce Blend, 4 oz",3.41
+Lettuce & leafy greens,0049-3452,"H-E-B Fresh Green Leaf Lettuce Leaves, 7 oz",3.09
+Lettuce & leafy greens,0051-3453,"H-E-B Fresh Hearts of Romaine Lettuce, 10 oz",3.09
+Lettuce & leafy greens,0087-3456,H-E-B Coleslaw Salad Kit - Dill Pickle,2.48
+Lettuce & leafy greens,0089-3456,"Central Market Organic Romaine, Baby Red Butter Lettuce & Arugula Blend, 5 oz",3.62
+Apples,0099-3457,"H-E-B Fresh Pink Lady Apples, 3 lb bag",4.05
+Apples,0114-3449,"Fresh Organic Granny Smith Apples, Avg. 0.6 lb",1.73
+Apples,0115-3449,"H-E-B Fresh Red Delicious Apples, 3 lb Bag",3.63
+Apples,0125-3449,"H-E-B Fresh Red Apple Slices with Caramel Dip, 4 ct",5.7
+Apples,0126-3449,"H-E-B Fresh Red Apple Slices - Texas-Size Pack, 32 oz",7.26
+Herbs,0135-3449,"Soli Organic Fresh Poultry Blend, 0.5 oz",2.58
+Herbs,0136-3449,"H-E-B Fresh Chopped Cilantro - Single Serve, .75 oz",2.06
+Herbs,0159-3449,Fresh Fennel,4.14
+Herbs,0160-3449,Fresh Organic Curly Leaf Parsley,1.64
+Herbs,0161-3449,"Soli Organic Fresh Lemongrass, 0.5 oz",2.58
+Vegetables,0162-3449,"H-E-B Texas Roots Fresh Russet Potatoes, 5 lbs",2.75
+Vegetables,0163-3449,"H-E-B Fresh French Green Beans - Texas-Size Pack, 32 oz",8.3
+Vegetables,0164-3449,Fresh Cucumber,0.69
+Vegetables,0165-3449,"H-E-B Texas Roots Fresh Russet Potatoes, 4 ct",4.66
+Vegetables,0166-3449,"Fresh Broccoli Crowns, Avg. 0.6 lb",1.03
+Vegetables,0167-3449,Fresh Red Bell Pepper,1.54
+Vegetables,0168-3449,Fresh Green Bell Pepper,0.6
+Vegetables,0169-3449,"Fresh Baby Gold Potatoes, 1.5 lb Bag",4.13
+Vegetables,0191-3449,Fresh Garlic,0.77
+Vegetables,0192-3449,"Soli Organic Fresh Poultry Blend, 0.5 oz",2.58
+Vegetables,0204-3450,"Soli Organic Fresh Sage, 0.5 oz",2.58
+Vegetables,0205-3450,"Fresh Steak Night Blend - Asparagus, Mushroom, Brussels Sprouts & Onion, 14 oz",6.22
+Vegetables,0219-3450,"H-E-B Fresh Steamable Asparagus, 10 oz",3.92
+Vegetables,0220-3450,Fresh Large Hass Avocado,2.06
+Vegetables,0221-3450,Fresh Green Onions,0.68
+Fruit,0222-3450,"H-E-B Premium Fresh Seedless White Grapes, Avg. 2.0 lbs",7.84
+Fruit,0272-3450,"H-E-B Fresh Gala Apples, 3 lb bag",3.11
+Fruit,0273-3450,"Fresh Large Navel Orange, Avg. 0.62 lb",1.09
+Fruit,0274-3450,"Fresh Organic Strawberries, 1 lb",5.18
+Fruit,0275-3450,"Fresh Green Kiwifruit, 1 lb",3.62
+Fruit,0276-3450,"Fresh Honeycrisp Apple, Avg. 0.65 lb",1.68
+Fruit,0277-3450,"H-E-B Fresh Cut Strawberries - Large, Avg. 1.2 lbs",6.22
+Fruit,0278-3450,Fresh Cantaloupe,3.24
+Fruit,0279-3450,Fresh Jumbo Mango,2.6
+Fruit,0280-3450,"H-E-B Fresh Limes, 2 lb bag",5.18
+Fruit,0281-3450,"Fresh Maradol Papaya, Avg. 3.85 lbs",3.81
+Spices and seasonings,0282-3450,"McCormick Onion Powder, 2.62 oz",3.61
+Spices and seasonings,0283-3450,"Hill Country Fare Garlic Powder, 10 oz",6.22
+Spices and seasonings,0284-3450,"Old El Paso Original Taco Seasoning Mix, 1 oz",1.01
+Spices and seasonings,0285-3450,"Hill Country Fare Lemon Pepper, 2.5 oz",1.54
+Spices and seasonings,0295-3450,"H-E-B Whole Thyme Leaves, 0.7 oz",2.07
+Spices and seasonings,0296-3450,"Mrs. Dash Salt-Free Southwest Chipotle Seasoning Blend, 2.5 oz",3.09
+Spices and seasonings,0297-3450,"H-E-B Garlic Pepper Spice Blend, 2.75 oz",2.06
+Spices and seasonings,0298-3450,"H-E-B Fish Market Blackened Seasoning Spice Blend, 3.25 oz",3.1
+Spices and seasonings,0299-3450,"Mrs. Dash Salt-Free Lemon Pepper Seasoning Blend, 2.5 oz",3.09
+Spices and seasonings,0300-3451,"H-E-B Fish Market Coastal Blend Seasoning, 3 oz",3.1
+Spices and seasonings,0301-3451,"H-E-B Bagel Not Included Spice Blend - Everything + Citrus Sriracha, 2.5 oz",3.1
+Spices and seasonings,0302-3451,"H-E-B Bagel Not Included Spice Blend - Everything + Smoky Jalapeno, 2.75 oz",3.1
+Spices and seasonings,0303-3451,"H-E-B Fish Market Buttery Dill & Lemon Seasoning Spice Blend, 2 oz",3.93
+Spices and seasonings,0304-3451,"H-E-B Fish Market Garlic Onion Rosemary Seasoning Spice Blend, 2.5 oz",3.93
+Spices and seasonings,0305-3451,"H-E-B Fish Market Sweet Chile Ancho Seasoning, 2.8 oz",3.93
+Spices and seasonings,0306-3451,"H-E-B Fish Market Spicy Asian Pepper Seasoning Spice Blend, 2.2 oz",3.93
+Spices and seasonings,0307-3451,"H-E-B Italian Seasoning, 0.75 oz",1.75
+Spices and seasonings,0308-3451,"H-E-B Italian Seasoning, 2.25 oz",2.89
+Spices and seasonings,0309-3451,"H-E-B Lemon Pepper Spice Blend, 3.88 oz",3.1
+Spices and seasonings,0310-3451,"H-E-B Lemon Pepper Spice Blend, 9.7 oz",5.18
+Spices and seasonings,0311-3451,"H-E-B Garlic, Sea Salt & Parsley Seasoning Blend, 4.7 oz",2.37
+Spices and seasonings,0312-3451,"H-E-B Garlic Salt Seasoning, 5.25 oz",1.75
+Spices and seasonings,0313-3451,"Hill Country Fare Garlic Powder - Texas-Size Pack, 22 oz",12.46
+Spices and seasonings,0314-3451,"H-E-B Cayenne Pepper, 1.8 oz",2.07
+Spices and seasonings,0315-3451,"H-E-B Ground Cumin, 1.8 oz",2.27
+Spices and seasonings,0316-3451,"H-E-B Oregano Leaves, 0.5 oz",2.07
+Spices and seasonings,0317-3451,"H-E-B Smoked Paprika, 1.9 oz",3.62
+Spices and seasonings,0318-3451,"Hill Country Fare Chili Powder, 8 oz",3.41
+Spices and seasonings,0319-3451,"H-E-B Pure Ground Black Pepper, 2 oz",2.06
+Spices and seasonings,0320-3451,"H-E-B Ground Cinnamon, 1.8 oz",2.27
+Spices and seasonings,0321-3451,"H-E-B Ground Turmeric, 1.8 oz",3.1
+Spices and seasonings,0338-3451,"H-E-B Texas Originals Blackened Seasoning Spice Blend, 4.5 oz",3.1
+Spices and seasonings,0339-3451,"H-E-B Texas Originals Borracho Bean Seasoning Spice Blend, 5 oz",3.1
+Spices and seasonings,0340-3451,"H-E-B Texas Originals Steak Seasoning Spice Blend, 6 oz",3.1
+Spices and seasonings,0341-3451,"McCormick Basil Leaves, 0.62 oz",2.2
+Soups and chili,0342-3451,"H-E-B Texas-Inspired Chicken Noodle Condensed Soup, 10.5 oz",1.64
+Soups and chili,0343-3451,"H-E-B Reduced Sodium Chicken Noodle Condensed Soup, 10.5 oz",1.64
+Soups and chili,0344-3451,"H-E-B Chicken & Rice Condensed Soup, 10.5 oz",1.64
+Soups and chili,0345-3451,"Campbell's Condensed Chicken Noodle Soup, 4 pk",4.97
+Soups and chili,0363-3451,"Cookwell & Company Tomato Basil Soup, 32 oz",8.2
+Soups and chili,0364-3451,"Knorr Tamarind Soup Mix, 1.41 oz",1.02
+Soups and chili,0365-3451,"Cookwell & Company Tortilla Soup, 32 oz",8.2
+Soups and chili,0366-3451,"H-E-B Reduced Sodium Cream of Mushroom Condensed Soup, 10.5 oz",1.64
+Soups and chili,0367-3451,"Cookwell & Company Cheese Enchilada Soup, 32 oz",8.2
+Soups and chili,0368-3451,"Cookwell & Company Hatch Verde Tortilla Soup, 32 oz",8.2
+Soups and chili,0369-3451,"Nissin Chicken Cup Noodles Value Pack, 6 ct",3.1
+Soups and chili,0370-3451,"Nissin Beef Cup Noodles Value Pack, 6 ct",3.1
+Soups and chili,0371-3451,"Nissin Shrimp Cup Noodles Value Pack, 6 ct",3.1
+Soups and chili,0372-3451,"H-E-B Organics Chicken Noodle Soup, 17.3 oz",2.68
+Soups and chili,0373-3451,"H-E-B Organics Tomato Basil Soup, 17.3 oz",2.68
+Soups and chili,0374-3451,"H-E-B Organics Southwest Style Black Bean Soup, 17.3 oz",2.68
+Soups and chili,0385-3451,"Lipton Cup-a-Soup Instant Soup Mix Cream of Chicken, 2.4 oz",2
+Soups and chili,0386-3451,"H-E-B Reduced Sodium Chicken & Rice Condensed Soup, 10.5 oz",1.64
+Snacks and candy,0402-3452,"H-E-B Hickory Smoke-Flavored Almonds, 24 oz",8.51
+Snacks and candy,0409-3452,"H-E-B Organics Original Microwave Popcorn, 3 ct",2.58
+Snacks and candy,0410-3452,"Ritz Fresh Stacks Original Crackers, 8 ct",3.6
+Snacks and candy,0411-3452,"H-E-B Twisters Sandwich Cookies - Family-Size, 19.3 oz",3.98
+Snacks and candy,0412-3452,"H-E-B Deluxe Salted Roasted Mixed Nuts, 16 oz",5.41
+Snacks and candy,0413-3452,"Chips Ahoy! Original Chocolate Chip Cookies Multipack 1.55 oz Bags, 10 ct",6.22
+Snacks and candy,0414-3452,"Alamo Candy Titritas Picositas Tub, 5 oz",5.19
+Snacks and candy,0415-3452,"H-E-B Kettle Cooked Potato Chips – Jalapeño, 8 oz",3
+Snacks and candy,0416-3452,"OREO Chocolate Sandwich Cookies - Family Size, 18.12 oz",5.08
+Snacks and candy,0461-3452,"M&M'S Milk Chocolate Candy - Family Size, 18 oz",9.19
+Salsa and dip,0462-3452,"Mark's Good Stuff Lone Star Certified Restaurant Salsa - Medium, 16 oz",3.54
+Salsa and dip,0463-3452,"H-E-B Jalapeño Bean Dip, 9 oz",3.1
+Salsa and dip,0464-3452,"Tostitos Creamy Spinach Dip, 15 oz",4.93
+Salsa and dip,0465-3452,"H-E-B Bean Dip, 9 oz",3.1
+Salsa and dip,0466-3452,"H-E-B That Green Sauce - Medium, 11 oz",4.42
+Salsa and dip,0467-3452,"Fritos Hot Bean Dip With Jalapeno Peppers, 9 oz",4.14
+Salsa and dip,0468-3452,"H-E-B Thick 'n Chunky Mild Salsa, 24 oz",3.1
+Salsa and dip,0469-3452,"Central Market Mild Peach Salsa, 16 oz",4.4
+Salsa and dip,0470-3452,"Fritos Jalapeno Cheddar Cheese Dip, 9 oz",4.14
+Salsa and dip,0471-3452,"Mark's Good Stuff Lone Star Certified Roasted Salsa - Medium, 16 oz",3.54
+Salsa and dip,0472-3452,"H-E-B Specialty Series Mild Salsa - Cilantro, 16 oz",3.93
+Salsa and dip,0473-3452,"Tostitos Mild Chunky Salsa, 15.5 oz",4.14
+Salsa and dip,0474-3452,"Ricos Queso Pronto Tomato & Jalapeño Cheese Dip - Medium Heat, 15 oz",3.1
+Salsa and dip,0475-3452,"Culinary Cowgirls Bacon-Wrapped Jalapeno Popper Dip, 16 oz",6.04
+Salsa and dip,0476-3452,"Tostitos Medium Chunky Salsa, 15.5 oz",4.14
+Salsa and dip,0477-3452,"H-E-B Medium Chunky Salsa, 16 oz",3.62
+Salsa and dip,0478-3452,"H-E-B Mild Chunky Salsa, 16 oz",3.62
+Salsa and dip,0479-3452,"Fritos Bean Dip - Original Flavor, 9 oz",4.14
+Salsa and dip,0480-3452,"H-E-B Medium Chunky Restaurant Style Salsa, 16 oz",3.62
+Salsa and dip,0481-3452,"H-E-B That's Salsa Bout Texas Medium Salsa, 16 oz",3.83
+Salsa and dip,0482-3452,"H-E-B Organics Thick N' Chunky Salsa - Mild, 16 oz",4.45
+Salsa and dip,0483-3452,"Central Market Hatch Green Chile Queso - Medium, 16 oz",4.76
+Salsa and dip,0484-3452,"Central Market Hatch Green Chile Medium Salsa Verde, 16 oz",4.76
+Salsa and dip,0490-3452,"Culinary Cowgirls Lone Star Queso Dip, 16 oz",6.04
+Salsa and dip,0503-3453,"The Salt Lick Medium Restaurant Style Salsa, 16 oz",4.51
+Salsa and dip,0504-3453,"H-E-B Organics Thick N' Chunky Salsa - Hot, 16 oz",4.45
+Salsa and dip,0505-3453,"H-E-B Organics Thick N' Chunky Salsa - Medium, 16 oz",4.45
+Salsa and dip,0506-3453,"Whataburger Medium Picante Sauce, 15 oz",5.18
+Salsa and dip,0507-3453,"Native Texan Medium Fire Roasted Salsa, 16 oz",4.28
+Salsa and dip,0508-3453,"Native Texan Mild Restaurant Style Salsa, 16 oz",4.28
+Salsa and dip,0509-3453,"Native Texan Medium Cilantro Lime Salsa, 16 oz",4.28
+Salsa and dip,0520-3453,"Texas-Texas Premium Homestyle Medium Salsa, 16 oz",4.41
+Salsa and dip,0521-3453,"H-E-B Specialty Series Mild Salsa - Salsa Ranchero, 16 oz",3.93
+Pasta and rice,0522-3453,"H-E-B Organics Spaghetti, 16 oz",1.85
+Pasta and rice,0542-3453,"H-E-B Organics Fusilli, 16 oz",2.06
+Pasta and rice,0543-3453,"Higher Harvest by H-E-B Gluten-Free Fusilli Pasta Noodles, 12 oz",2.06
+Pasta and rice,0544-3453,"H-E-B Organics Whole Wheat Penne Rigate, 16 oz",2.06
+Pasta and rice,0545-3453,"H-E-B Organics Capellini Angel Hair Pasta, 16 oz",2.06
+Pasta and rice,0546-3453,"H-E-B Ridged Elbow Veggie Pasta, 12 oz",1.64
+Pasta and rice,0547-3453,"H-E-B Enriched Long Grain White Rice, 3 lbs",2.58
+Pasta and rice,0548-3453,"H-E-B Enriched Long Grain White Rice, 1 lb",0.96
+Pasta and rice,0549-3453,"Golden Star Jasmine Rice, 2 lbs",3.3
+Pasta and rice,0550-3453,"La Moderna Conchas Shells Pasta Noodles, 7 oz",0.52
+Pasta and rice,0551-3453,"Barilla 12g Protein Chickpea Rotini Pasta, 8.8 oz",3.04
+"Dressing, oil and vinegar",0584-3453,"Hidden Valley Original Ranch Salad Dressing & Seasoning Mix, 1 oz",2.06
+"Dressing, oil and vinegar",0585-3453,"H-E-B Fresh Ranch Dressing (Sold Cold), 15 fl oz",4.14
+"Dressing, oil and vinegar",0586-3453,"Hill Country Fare Distilled White Vinegar, 1 gal",4.1
+"Dressing, oil and vinegar",0587-3453,"Hidden Valley Easy Squeeze Original Ranch Salad Dressing & Topping, 20 oz",4.56
+"Dressing, oil and vinegar",0635-3454,"Chick-fil-A Avocado Lime Ranch Dressing (Sold Cold), 12 fl oz",4.76
+"Dressing, oil and vinegar",0636-3454,"H-E-B 100% Real Crumbled Bacon Bits, 2.5 oz",2.06
+"Dressing, oil and vinegar",0637-3454,"Hill Country Fare Distilled White Vinegar, 64 oz",2.94
+"Dressing, oil and vinegar",0638-3454,"New York The Original Texas Toast Seasoned Croutons, 5 oz",1.85
+"Dressing, oil and vinegar",0639-3454,"Hill Country Fare Distilled White Vinegar, 32 oz",1.68
+"Dressing, oil and vinegar",0640-3454,"Hill Country Fare Ranch Dip Mix, 1 oz",0.93
+"Dressing, oil and vinegar",0641-3454,"Hidden Valley Original Ranch Salad Dressing & Seasoning Mix, 4 pk",5.87
+Cereal and breakfast,0642-3454,"H-E-B Sugar Frosted Flakes Cereal, 17 oz",3.1
+Cereal and breakfast,0643-3454,"H-E-B Original Pancake & Waffle Syrup, 36 oz",4.14
+Cereal and breakfast,0644-3454,"Kellogg's Frosted Flakes Cereal - Family Size, 21.7 oz",5.18
+Cereal and breakfast,0656-3454,"Kellogg's Froot Loops Original with Marshmallow Breakfast Cereal, 16.2 oz",5.18
+Cereal and breakfast,0657-3454,"General Mills Honey Nut Cheerios Cereal - Family Size, 18.8 oz",4.2
+Cereal and breakfast,0658-3454,"General Mills Lucky Charms Cereal - Mega Size, 26.1 oz",5.6
+Cereal and breakfast,0659-3454,"Cream of Wheat Instant Hot Cereal - Original, 12 ct",4.7
+Cereal and breakfast,0660-3454,"Kellogg's Froot Loops Original Cold Breakfast Cereal, 10.1 oz",4.14
+Cereal and breakfast,0661-3454,"Pop-Tarts Frosted Strawberry Toaster Pastries, 20.3 oz, 12 ct",3.92
+Cereal and breakfast,0662-3454,"Pop-Tarts Frosted Brown Sugar Cinnamon Toaster Pastries, 20.3 oz, 12 ct",3.92
+Cereal and breakfast,0663-3454,"Post Fruity Pebbles Cereal - Mega Size, 27.5 oz",6.49
+Cereal and breakfast,0664-3454,"Kellogg's Frosted Flakes Original Breakfast Cereal - Mega Size, 30.6 oz",6.53
+Cereal and breakfast,0665-3454,"H-E-B Original Complete Pancake & Waffle Mix, 32 oz",2.93
+Cereal and breakfast,0666-3454,"Pearl Milling Company Original Complete Pancake & Waffle Mix, 32 oz",3.41
+Cereal and breakfast,0667-3454,"Quaker Old Fashioned Oats, 42 oz",5.32
+Cereal and breakfast,0668-3454,"H-E-B 10g Protein Instant Oatmeal Cup - Cocoa & Cream, 1.59 oz",1.04
+Cereal and breakfast,0669-3454,"H-E-B Organics Grade A Medium Amber Maple Syrup, 12 oz",10.38
+Cereal and breakfast,0670-3454,"H-E-B Organics Dark Robust Taste Maple Syrup, 12 oz",10.38
+Cereal and breakfast,0671-3454,"Kodiak Cakes Power Cakes 15g Protein Flapjack & Waffle Mix - Buttermilk, 20 oz",5.95
+Cereal and breakfast,0672-3454,"H-E-B High Fiber Instant Oatmeal - Peaches & Cream, 8 ct",3.41
+Cereal and breakfast,0673-3454,"Kodiak 12g Protein Instant Oatmeal - Chocolate Chip, 6 ct",5.49
+Cereal and breakfast,0674-3454,"Mrs. Butterworth's Original Thick and Rich Pancake Syrup, 24 oz",3.47
+Cereal and breakfast,0675-3454,"Cap'n Crunch Crunch Berries Cereal , 11.7 oz",3.09
+Cereal and breakfast,0676-3454,"General Mills Cinnamon Toast Crunch Cereal - Family Size, 18.8 oz",4.59
+Cereal and breakfast,0677-3454,"Post Fruity Pebbles Cereal, 11 oz",3.09
+Cereal and breakfast,0678-3454,"H-E-B Classic Granola, 14 oz",3.62
+Cereal and breakfast,0679-3454,"Post Fruity Pebbles Cereal Bag, 32 oz",7.04
+Cereal and breakfast,0680-3454,"Hill Country Fare Original Syrup, 12 oz",1.54
+Cereal and breakfast,0681-3454,"Pop-Tarts Frosted Strawberry Toaster Pastries, 13.5 oz, 8 ct",2.72
+Cereal and breakfast,0682-3454,"Kellogg's Raisin Bran Crunch Original Cold Breakfast Cereal - Family Size, 20.7 oz",5.18
+Cereal and breakfast,0683-3454,"General Mills Cinnamon Toast Crunch Cereal Bag, 32 oz",7.04
+Cereal and breakfast,0684-3454,"Kellogg's Frosted Mini-Wheats Original Breakfast Cereal, 16 oz",4.14
+Cereal and breakfast,0685-3454,"General Mills Honey Nut Cheerios Cereal, 10.8 oz",3.83
+Cereal and breakfast,0686-3454,"Nature Valley 13g Protein Crunchy Granola - Oats 'N Honey, 11 oz",4.65
+Cereal and breakfast,0687-3454,"Malt-O-Meal Fruity Dyno-Bites Cereal Bag, 32 oz",5.7
+Cereal and breakfast,0697-3454,"General Mills Cheerios Cereal Family Size, 18 oz",5.13
+Cereal and breakfast,0698-3454,"General Mills Cinnamon Toast Crunch Cereal Cup, 2 oz",1.04
+Cereal and breakfast,0699-3454,"General Mills Honey Nut Cheerios Cereal Cup, 1.8 oz",1.04
+Cereal and breakfast,0700-3455,"General Mills Honey Nut Cheerios Cereal Bag, 32 oz",7.04
+Cereal and breakfast,0701-3455,"Kellogg's Rice Krispies Original Cold Breakfast Cereal, 18 oz",5.18
+Vitamins & supplements,0702-3455,"Olly Kids' Probiotic Multivitamin Gummies - Yum Berry Punch, 70 ct",13.4
+Vitamins & supplements,0703-3455,"H-E-B Vitamins 1,000 mg C with Rose Hips Tablets, 100 ct",6.18
+Vitamins & supplements,0704-3455,"Zarbee's Children's Elderberry Immune Support - Natural Berry Flavor, 42 ct",14.29
+Vitamins & supplements,0705-3455,"One A Day Prenatal 1 Complete Multivitamin Softgels, 30 ct",15.57
+Vitamins & supplements,0706-3455,"H-E-B Vitamins D3 125 mcg (5,000 IU) Softgels, 100 ct",6.18
+Vitamins & supplements,0707-3455,"Vitafusion Women's Daily Multivitamin Formula Gummy Vitamins Mixed Berries, 150 ct",11.42
+Vitamins & supplements,0733-3455,"H-E-B Vitamins Select Ingredients Kids Multivitamin Gummies, 60 ct",6.18
+Vitamins & supplements,0734-3455,"H-E-B Prenatal Multivitamin Tablets, 100 ct",5.08
+Vitamins & supplements,0735-3455,"H-E-B Vitamins C 1,000 mg Tablets, 250 ct",10.28
+Vitamins & supplements,0736-3455,"Nature Made Vitamin B-12 3000 mcg Liquid Softgels, 60 ct",12.46
+Vitamins & supplements,0737-3455,"H-E-B Vitamins Super B-Complex Tablets, 100 ct",6.2
+Vitamins & supplements,0743-3455,"H-E-B Men 50+ One Daily Multivitamin Tablets, 65 ct",4.04
+Vitamins & supplements,0744-3455,"H-E-B Prenatal Multivitamin + DHA Dietary Supplement Softgels, 30 ct",9.86
+Vitamins & supplements,0745-3455,"Central Market Vitamin E 400 IU Softgels, 30 ct",6.52
+Vitamins & supplements,0746-3455,"H-E-B Kids Multivitamin Gummies - Texas-Size Pack, 190 ct",9.2
+Vitamins & supplements,0747-3455,"Nature's Bounty Vitamin C 500 mg Tablets, 100 ct",5.7
+Vitamins & supplements,0748-3455,"H-E-B Men One Daily Multivitamin Tablets - Texas-Size Pack, 200 ct",9.24
+Vitamins & supplements,0749-3455,"H-E-B Herbals Apple Cider Vinegar Capsules - 450 mg, 100 ct",7.16
+Vitamins & supplements,0750-3455,"H-E-B Vitamins D3 125 mcg (5,000 IU) Softgels, 250 ct",7.16
+Vitamins & supplements,0751-3455,"Nature Made Vitamin B-12 Liquid Softgels - 1000 mcg, 90 ct",11.38
+Vitamins & supplements,0752-3455,"L'il Critters Gummy Vites Complete Multivitamin, 190 ct",11.42
+Vitamins & supplements,0753-3455,"Nature Made Vitamin C 500 mg Chewable Tablets - Orange, 60 ct",5.69
+Vitamins & supplements,0754-3455,"H-E-B Vitamins Super Potency Biotin 5,000 mcg Softgels - Texas-Size Pack, 240 ct",10.28
+Vitamins & supplements,0755-3455,"Vitafusion Vitamin B12 Gummies - 1000 mcg, 140 ct",11.42
+Vitamins & supplements,0756-3455,"H-E-B Vitamins Men's Multivitamin Gummies, 60 ct",6.18
+Vitamins & supplements,0757-3455,"L'il Critters Paw Patrol Multivitamin Gummies, 190 ct",11.42
+Vitamins & supplements,0758-3455,"One A Day Prenatal Advanced with Brain Support, 120 ct",32.64
+Vitamins & supplements,0759-3455,"Nature's Way Alive! Women's Ultra Potency Complete Multivitamin, 60 ct",15.89
+Vitamins & supplements,0760-3455,"Nature Made Vitamin D3 2000 IU Liquid Softgels, 250 ct",13.97
+Vitamins & supplements,0761-3455,"Nature's Way Alive! Women's 50+ Premium Multivitamin Gummies, 75 ct",23.33
+Oral care,0762-3455,"Crest 3D White Glamorous White Toothpaste, 2 Pk, 6.6 oz",9.33
+Oral care,0781-3455,"Colgate Optic White Anticavity Toothpaste - Clean Mint, 4.2 oz",4.14
+Oral care,0782-3455,"Crest 3D Whitestrips Dental Whitening Kit, 10 ct",21.82
+Oral care,0783-3455,"Listerine Cool Mint Antiseptic Mouthwash, 33.8 oz",7.26
+Oral care,0784-3455,"Sensodyne Complete Protection Sensitive Toothpaste, 3.4 oz",7.26
+Oral care,0785-3455,"Colgate Max Fresh Anticavity Toothpaste - Mint Fusion, 6.3 oz",4.12
+Oral care,0786-3455,"Arm & Hammer Advance White Clean Mint Anticavity Fluoride Toothpaste, 2 Pk, 12 oz",7.26
+Oral care,0787-3455,"Sensodyne Sensitive Toothpaste - Extra Whitening, 4 oz",7.26
+Oral care,0788-3455,"Crest 3D White Whitening Toothpaste - Radiant Mint, 2 Pk, 6.6 oz",9.33
+Oral care,0789-3455,"Arm & Hammer Advance White Anticavity Fluoride Toothpaste – Clean Mint, 6 oz",4.14
+Oral care,0790-3455,"Oral-B Glide Pro-Health Comfort Plus Dental Floss - Mint, 87.4 yd",9.33
+Oral care,0791-3455,"H-E-B Gleaming White 10 Day Whitening Treatment, 10 ct",20.78
+Oral care,0792-3455,"Listerine Total Care Anticavity Mouthwash - Fresh Mint, 33.8 oz",9.34
+Oral care,0793-3455,"Sensodyne Complete Protection Sensitive Toothpaste-Extra Fresh, 3.4 oz",7.26
+Oral care,0794-3455,"TheraBreath Fresh Breath Oral Rinse - Icy Mint, 16 oz",7.98
+Oral care,0795-3455,"Colgate Total Whitening Toothpaste, 5.1 oz",5.16
+Oral care,0796-3455,"Colgate Extra Clean Toothbrushes - Medium, 6 ct",5.16
+Oral care,0797-3455,"Sensodyne Pronamel Gentle Whitening Toothpaste - Alpine Breeze, 4 oz",7.26
+Oral care,0798-3455,"Colgate 360 Optic White Toothbrushes - Soft, 2 pk",7.24
+Oral care,0799-3455,"Listerine Ultraclean Antiseptic Mouthwash - Cool Mint, 33.8 oz",9.34
+Oral care,0800-3456,"Colgate Total Deep Clean Toothpaste, 2 Pk, 10.2 oz",8.28
+Oral care,0801-3456,"Sensodyne Pronamel Gentle Whitening Toothpaste - Alpine Breeze, 2 Pk, 8 oz",12.98
+Oral care,0802-3456,"H-E-B Antiseptic Mouthwash – Cool Blue Mint, 33.8 oz",3.09
+Medicine & treatments,0837-3456,"H-E-B Omeprazole Delayed Release Acid Relief Tablets – 20 mg, 42-ct",15.57
+Medicine & treatments,0838-3456,"H-E-B Loperamide Hydrochloride Diarrhea Relief Softgels – 2mg, 24-ct",8.28
+Medicine & treatments,0869-3456,"H-E-B Ibuprofen 200 mg Softgels, 80 ct",6.49
+Medicine & treatments,0870-3456,"H-E-B Allergy Relief Diphenhydramine Antihistamine Tablets – 25 mg, 24 ct",2
+Medicine & treatments,0871-3456,"H-E-B Cough Suppressant DM Liquid - Orange Flavor, 5 oz",10.36
+Medicine & treatments,0872-3456,"Salonpas Lidocaine 4% Pain Relieving Gel-patch, 6 ct",10.75
+Medicine & treatments,0873-3456,"H-E-B Daytime + Nighttime Severe Cold & Flu Caplets - Cool Taste, 24 ct",2.65
+Medicine & treatments,0874-3456,"H-E-B Triple Antibiotic First Aid Ointment, 1 oz",2.6
+Medicine & treatments,0875-3456,"H-E-B Immediate Release Mucus Relief Tablets - 400 mg, 100 ct",5.98
+Medicine & treatments,0876-3456,"H-E-B Daytime Sinus Congestion & Pain Caplets, 24 ct",2.68
+Medicine & treatments,0877-3456,"Ace Adjustable Moderate Knee Support, EACH",13.35
+Medicine & treatments,0878-3456,"Ricola Cough Drops - Original Herb, 21 ct",2.58
+Medicine & treatments,0879-3456,"H-E-B No Drip Maximum Strength plus Menthol Nasal Spray, 1 oz",3.84
+Medicine & treatments,0880-3456,"KT Tape Kinesiology Therapeutic Tape Strips Sonic Blue, 20 ct",16.61
+Medicine & treatments,0881-3456,"H-E-B Flavor Free Clear Fiber Supplement, 12.3OZ",10.36
+Makeup,0882-3456,KISS My Lash But Better Lashes - All Mine,4.13
+Makeup,0883-3456,Milani Fruit Fetish Lip Oil - Strawberry Melon,9.55
+Makeup,0884-3456,"L'Oréal Paris Colour Riche Satin Lipstick - Worth It, 1 ct",7.4
+Makeup,0887-3456,"Revlon Illuminance Serum Tint - Creamy Natural, 0.94 oz",12.98
+Makeup,0888-3456,"Maybelline Fit Me Blush - 30 Rose, 0.16 oz",6.22
+Makeup,0889-3456,NYX Micro Brow Pencil - Espresso,11.41
+Makeup,0890-3456,"Neutrogena Healthy Definition Eyelash Mascara - Carbon Black, 0.2 oz",10.37
+Makeup,0891-3456,"e.l.f. Power Grip Primer Clear, 1 oz",10.4
+Makeup,0892-3456,"NYX Makeup Setting Spray - Dewy, 2.03 oz",10.37
+Makeup,0893-3456,NYX Fat Oil Slick Stick - No Filter Needed,11.41
+Makeup,0894-3456,Milani Color Fetish Hydrating Lip Stain - Pink About It,11.41
+Makeup,0895-3456,KISS imPRESS Press-On Falsies - Airy Wispy,8.29
+Makeup,0896-3456,NYX Vivid Rich Liner Pencil - Aquamarine Dream,8.29
+Makeup,0897-3456,Maybelline Sky High Lash Sensational Mascara - Cosmic Black,10.38
+Makeup,0898-3456,"e.l.f. Poreless Face Primer, 1.01 oz",10.4
+Makeup,0899-3456,Maybelline Sky High Lash Sensational Mascara - Blackest Black,10.38
+Makeup,0900-3457,"e.l.f. Glow Reviver Lip Oil - Honey, 0.25 oz",8.32
+Makeup,0901-3457,NYX Epic Ink Liner - Black,9.48
+Makeup,0902-3457,KISS The New Natural Multipack - Pearl Earring,12.45
+Makeup,0903-3457,"Milani Make It Last Original - Natural Finish Setting Spray Jumbo Size, 6 oz",16.61
+Makeup,0904-3457,"e.l.f. Halo Glow Liquid Filter - Cool, 1.06 oz",14.56
+Makeup,0905-3457,Sally Hansen Miracle Gel Nail Polish - Miracle Gel 3.0 Shiny Top Coat,9.61
+Hair care,0959-3457,Revlon Frizz Fighter Hair Dryer,30.15
+Hair care,0960-3457,"Selsun Blue Medicated Antidandruff Shampoo, 11 oz",8.3
+Hair care,0961-3457,"Monday Curl Define Conditioner, 12 oz",7.25
+Hair care,0962-3457,"method Pure Peace Volumizing Shampoo, 14 oz",11.41
+Hair care,0963-3457,Revlon Pro Collection Salon One-Step Hair Dryer & Volumizer,40.44
+Hair care,0964-3457,"method Pure Peace Volumizing Conditioner, 13.5 oz",11.41
+Hair care,0965-3457,"Garnier Fructis Hair Filler Moisture Repair Shampoo, 10.1 oz",9.33
+Hair care,0966-3457,"Garnier Fructis Hair Filler + Hyaluronic Moisture Repair Conditioner, 10.1 oz",9.33
+Hair care,0999-3457,"Hims Thick Fix Conditioner - Eucalyptus Grove Scent, 6.4 oz",9.45
+Hair care,1000-3449,"Garnier Whole Blends Honey Treasures Repairing Shampoo, 28 oz",9.33
+Hair care,1001-3449,"Garnier Whole Blends Honey Treasures Repairing Conditioner, For Dry Hair, 26.6 oz",9.33
+Hair care,1002-3449,"Color Wow Xtra Large Bombshell Volumizer, 6.7 oz",27.04
+Diet & fitness,1003-3449,"Central Market Collagen Peptides - Unflavored, 20 oz",38.46
+Diet & fitness,1004-3449,"Orgain Organic 21g Protein Powder - Vanilla Bean, 2.03 lbs",32.22
+Diet & fitness,1005-3449,"Cellucor C4 Whey Protein Reese's, 25.6 oz",31.18
+Diet & fitness,1006-3449,"UPTIME Zero Sugar Energy Drink - Blood Orange, 12 oz",2.9
+Diet & fitness,1007-3449,"Alani Nu Zero Sugar Energy Drink - Cherry Slush, 12 oz",2.58
+Bath & skin care,1082-3449,"b.tan Tanned AF Deep Tanning Dry Spray Oil, 8 oz",10.37
+Bath & skin care,1083-3449,"b.tan Say Aloe To My Little Friend Soothing After Sun Gel, 7 oz",4.13
+Bath & skin care,1084-3449,"H-E-B Oxybenzone Free Coconut Sunscreen Spray – SPF 50, 5.5 oz",9.36
+Bath & skin care,1085-3449,"Tree Hut Shea Sugar Scrub Moroccan Rose, 18 oz",9.3
+Bath & skin care,1086-3449,"Thayers Witch Hazel Cucumber Facial Toner, 12 oz",11.42
+Bath & skin care,1087-3449,"H-E-B Sport Broad Spectrum Sunscreen Spray – SPF 100, 5.5 oz",9.36
+Bath & skin care,1088-3449,"H-E-B Tattoo Protection Sunscreen Spray – SPF 50, 5.5 oz",9.36
+Bath & skin care,1089-3449,"H-E-B Oxybenzone Free Facial Mist Sunscreen  – SPF 30, 4 oz",11.44
+Bath & skin care,1090-3449,"Cetaphil Daily Facial Cleanser, 16 oz",12.97
+Bath & skin care,1091-3449,"H-E-B Sport Broad Spectrum Sunscreen Spray – SPF 50, 2 pk",15.6
+Bath & skin care,1092-3449,"CeraVe Hydrating Facial Cleanser, 16 oz",16.1
+Bath & skin care,1093-3449,"Softsoap Exfoliating Body Wash - Pink Rose & Sweet Vanilla, 20 oz",4.13
+Bath & skin care,1094-3449,"Cetaphil Moisturizing Lotion, 16 oz",14.01
+Bath & skin care,1095-3449,"Eucerin Advanced Hydration Lightweight Sunscreen Lotion Spray SPF 50, 6 oz",14.23
+Bath & skin care,1096-3449,"Thayers Witch Hazel Rose Petal Facial Toner, 12 oz",11.42
+Bath & skin care,1097-3449,"CeraVe Hydrating Hyaluronic Acid Serum, 1 oz",20.01
+Bath & skin care,1098-3449,"PanOxyl 10% Benzoyl Peroxide Foaming Wash, 5.5 oz",10.16
+Bath & skin care,1099-3449,"Neutrogena Hydro Boost Water Gel Moisturizer, 1.7 oz",20.77
+Bath & skin care,1100-3449,"CeraVe AM Facial Moisturizing Lotion - SPF 30, 3 oz",15.57
+Bath & skin care,1101-3449,"Softsoap Moisturizing Body Wash - Pomegranate & Mango Spritz, 20 oz",4.13
+Bath & skin care,1102-3449,"Garnier SkinActive Micellar Cleansing Water, 13.5 oz",9.33
+Bath & skin care,1103-3449,Cleanlogic Large Body Exfoliator,5.17
+Bath & skin care,1104-3449,"Neutrogena Makeup Remover Wipes & Face Cleansing Towelettes, 25 ct",5.9
+Bath & skin care,1105-3449,"Hill Country Fare Make-Up Remover Towelettes, 25 ct",2.34
+Bath & skin care,1115-3449,"CeraVe Foaming Facial Cleanser, 12 oz",14.23
+Bath & skin care,1116-3449,"CeraVe Moisturizing Cream For Normal To Dry Skin, 16 oz",15.57
+Bath & skin care,1117-3449,"Dove Refreshing Body Wash with Pump - Cucumber & Green Tea , 30.6 oz",10.37
+Bath & skin care,1118-3449,"CeraVe Hydrating Facial Cleanser, 12 oz",14.23
+Bath & skin care,1119-3449,"Dove Relaxing Body Wash with Pump - Lavender Oil & Chamomile, 30.6 oz",10.37
+Bath & skin care,1120-3449,"CeraVe Foaming Facial Cleanser, 8 oz",12.86
+Bath & skin care,1121-3449,"Dove Sensitive Skin Body Wash, 20 oz",7.25
+Bath & skin care,1122-3449,"Dove Refreshing Body Wash - Cucumber and Green Tea, 20 oz",7.25
+FSA eligible,1123-3449,H-E-B Allergy Relief Cetirizine 24 Hour Tablets – 10 mg,24.94
+FSA eligible,1124-3449,H-E-B Allergy 24 Hour Relief Loratadine Tablets – 10 mg,12.98
+FSA eligible,1125-3449,H-E-B Maximum Strength Nasal Decongestant PE Tablets,5.45
+FSA eligible,1126-3449,H-E-B Children’s Allergy Relief Cetirizine 24 Hour Liquid – Grape,7.22
+FSA eligible,1127-3449,H-E-B Children’s Allergy Relief Loratadine Chewable Tablets – Grape,15.48
+FSA eligible,1128-3449,H-E-B Nasopro 24 Allergy Relief Nasal Spray - Twin Pack,26.35
+FSA eligible,1129-3449,H-E-B Children's Nasopro 24 Allergy Relief Spray,8.6
+FSA eligible,1130-3449,H-E-B Once Daily Relief Eye Drops,14.96
+FSA eligible,1131-3449,H-E-B  Allergy Relief Levocetirizine Dihydrochloride 24 Hour Tablets - 5 mg,15.06
+FSA eligible,1132-3449,H-E-B Allergy Relief Fexofenadine 24 Hour Tablets - 180 mg,22.78
+FSA eligible,1133-3449,H-E-B Daytime Sinus Congestion & Pain Caplets,2.68
+FSA eligible,1134-3449,H-E-B Children’s Allergy Relief Diphenhydramine  Liquid – Cherry Flavor,6.48
+FSA eligible,1135-3449,H-E-B On The Go First Aid Kit,5.7
+FSA eligible,1136-3449,H-E-B First Aid Kit,2.79
+FSA eligible,1137-3449,H-E-B 91% Isopropyl Alcohol First Aid Antiseptic,2.87
+FSA eligible,1138-3449,H-E-B Flexible Fabric Antibacterial Bandages – Assorted Sizes,5.17
+FSA eligible,1139-3449,H-E-B Electrolyte Solution – Strawberry,5.18
+FSA eligible,1140-3449,H-E-B Flexible Fabric Antibacterial Bandages,1.84
+FSA eligible,1141-3449,H-E-B Gauze Pads,5.14
+FSA eligible,1142-3449,H-E-B Baby Electrolyte Solution - Blue Raspberry,5.18
+FSA eligible,1143-3449,H-E-B Triple Antibiotic First Aid Ointment,2.6
+FSA eligible,1144-3449,H-E-B Electrolyte Solution – Cherry Punch,5.18
+FSA eligible,1145-3449,H-E-B Electrolyte Solution – Mixed Fruit,5.18
+FSA eligible,1146-3449,H-E-B Ibuprofen 200 mg Softgels,15.59
+FSA eligible,1147-3449,H-E-B Omeprazole Delayed Release Acid Relief Tablets – 20 mg,15.57
+FSA eligible,1148-3449,H-E-B Calcium Carbonate Antacid Tablets – 750 mg,5.14
+FSA eligible,1149-3449,H-E-B Stomach Relief Regular Strength Cherry Texas-Size Pack,3.7
+FSA eligible,1150-3449,H-E-B Children's Stomach Relief Orange Creme Liquid,2.03
+FSA eligible,1151-3449,H-E-B Regular Strength Chocolated Laxative Sennosides 15 mg,3.1
+FSA eligible,1152-3449,H-E-B Famotidine Maximum Strength Acid Controller Tablets - Texas-Size Pack,12.03
+FSA eligible,1153-3449,H-E-B Esomeprazole Magnesium Acid Reducer Capsules – 20 mg,15.57
+FSA eligible,1154-3449,H-E-B Fiber Dietary Supplement Powder,13.75
+FSA eligible,1155-3449,H-E-B Electrolyte Solution – Strawberry,5.18
+FSA eligible,1156-3449,H-E-B Loperamide Hydrochloride Diarrhea Relief Softgels – 2mg,8.28
+FSA eligible,1157-3449,H-E-B Extra Strength Gas Relief 125 mg Softgels,4.66
+FSA eligible,1158-3449,H-E-B Motion Sickness Relief 25 mg Tablets,6.21
+FSA eligible,1159-3449,H-E-B Reliance Personal Washcloths,3.92
+FSA eligible,1160-3449,H-E-B Reliance Flushable Wipes,5.17
+FSA eligible,1161-3449,H-E-B Reliance Underpads - Maximum Absorbency,18.38
+FSA eligible,1162-3449,H-E-B Reliance Regular Length Pads - 3 Light Absorbency,4.3
+FSA eligible,1163-3449,H-E-B Reliance Regular Length Pads - 4 Moderate Absorbency,4.3
+FSA eligible,1164-3449,H-E-B Reliance Long Length Pads - 4 Moderate Absorbency,4.3
+FSA eligible,1165-3449,H-E-B Reliance Long Length Pads - 6 Ultimate Absorbency,16.61
+FSA eligible,1166-3449,H-E-B Reliance Ultimate Absorbency Regular Length Pads,10.37
+FSA eligible,1167-3449,H-E-B Reliance Overnight Pads - 6 Ultimate Absorbency,10.37
+Trash bags,1209-3449,"Glad ForceFlex MaxStrength X-Large Kitchen Drawstring Trash Bags, 20 Gallon - Fresh Clean Scent with Febreze Freshness, 80 ct",22.69
+Trash bags,1210-3449,"Hefty Strong Lawn & Leaf Extra Large 39 Gallon Drawstring Trash Bags, 18 ct",10.98
+Trash bags,1211-3449,"H-E-B Texas Tough Tall Kitchen Drawstring Trash Bags, 13 Gallon - Lavender Scent, 45 ct",8.13
+Trash bags,1212-3449,"Glad ForceFlex Tall Kitchen Drawstring Trash Bags, 13 Gallon - Gain Lavender Scent with Febreeze Freshness, 40 ct",10.37
+Trash bags,1213-3449,"H-E-B Texas Tough Tall Kitchen Trash Bags, 13 Gallon - Fresh Scent, 45 ct",8.13
+Trash bags,1214-3449,"Glad ForceFlex Tall Kitchen Drawstring Trash Bags, 13 Gallon - Fresh Clean Scent with Febreeze Freshness, 40 ct",10.37
+Trash bags,1215-3449,"H-E-B Texas Tough Large Multipurpose Flex Trash Bags, 33 Gallon, 25 ct",11.66
+Trash bags,1216-3449,"Hill Country Essentials Tall Kitchen Drawstring Trash Bags, 13 Gallon, 45 ct",5.4
+Trash bags,1231-3449,"BioBag Small Compostable Food Scrap Bags, 3 Gallon, 25 ct",5.18
+Trash bags,1232-3449,"Glad ForceFlex Tall Kitchen Drawstring Trash Bags, 13 Gal - Gain Fresh Clean with Febreze, 80 ct",18.08
+Trash bags,1233-3449,"Glad ForceFlex Tall Kitchen Drawstring Trash Bags, 13 Gallon - Gain Lavender Scent with Febreze Freshness, 80 ct",18.08
+Trash bags,1234-3449,"Glad ForceFlex Tall Kitchen Drawstring Trash Bags, 13 Gallon - Gain Original Scent with Febreze Freshness, 80 ct",18.08
+Trash bags,1235-3449,"H-E-B Texas Tough Extra Large Trash Bags, 50 Gallon, 50 ct",20.78
+Trash bags,1236-3449,"Hefty Ultra Strong Blackout Tall Kitchen Drawstring Trash Bags, 13 Gallon - Clean Burst Scent, 40 ct",8.88
+Trash bags,1237-3449,"Hefty Ultra Strong Blackout Tall Kitchen Drawstring Trash Bags, 13 Gallon - Scent Free, 40 ct",8.88
+Trash bags,1238-3449,"Hefty Ultra Strong Tall Kitchen Drawstring Trash Bags, 13 Gallon - Clean Burst Scent, 40 ct",8.88
+Trash bags,1239-3449,"Hefty Ultra Strong Tall Kitchen Drawstring Trash Bags, 13 Gallon - Fabuloso, 40 ct",8.88
+Trash bags,1240-3449,"Hefty Ultra Strong Tall Kitchen Drawstring Trash Bags, 13 Gallon - Citrus Twist Scent, 40 ct",8.88
+Trash bags,1241-3449,"Hefty Ultra Strong Tall Kitchen Drawstring Trash Bags, 13 Gallon - Lavender & Sweet Vanilla Scent, 40 ct",8.88
+Trash bags,1242-3449,"Hefty Ultra Strong Tall Kitchen Drawstring Trash Bags, 13 Gallon - Citrus Twist Scent, 80 ct",12.45
+Trash bags,1243-3449,"Hefty Ultra Strong Tall Kitchen Drawstring Trash Bags, 13 Gallon - Scent Free, 80 ct",12.45
+Trash bags,1244-3449,"Hefty Ultra StrongTall Kitchen Drawstring Trash Bags, 13 Gallon -  Lavender & Sweet Vanilla Scent, 80 ct",12.45
+Trash bags,1245-3449,"H-E-B Texas Tough Drawstring Trash Bags, 10 Gallon, 35 ct",5.95
+Trash bags,1246-3449,"H-E-B Texas Tough Trash Compactor Bags, 18 Gallon, 50 ct",13.5
+Trash bags,1247-3449,"Hill Country Essentials Tall Kitchen Drawstring Trash Bags, 13 Gallon, 90ct",10.38
+Trash bags,1248-3449,"H-E-B Heavy Duty Lawn & Leaf Paper Bags, 30 Gallon, 5 ct",2.57
+Trash bags,1249-3449,"H-E-B Texas Tough Flex Tall Kitchen 13 Gallon Trash Bags - Texas-Size Pack, 200 ct",20.78
+Trash bags,1250-3449,"H-E-B Texas Tough Contractor Trash Bags, 42 Gallon, 30 ct",19.74
+Trash bags,1251-3449,"Brute Super Tuff Contracter Trash Bags, 45 Gallon, 20ct",14.44
+Trash bags,1252-3449,"Brute Super Tuff Contractor Trash Bags, 55 Gallon, 20ct",15.58
+Trash bags,1253-3449,"H-E-B Texas Tough Large Multipurpose Flex Trash Bags, 33 Gallon, 30 ct",11.66
+Trash bags,1254-3449,"H-E-B Texas Tough Flex Multipurpose 33 Gallon Trash Bags - Texas-Size Pack, 90 ct",20.78
+Toilet paper,1255-3449,"H-E-B Our Finest Ultra Soft Toilet Paper - Texas-Size Pack, 36 Mega Rolls",31.18
+Paper towels,1317-3449,"Sparkle Pick-A-Size Double Rolls Paper Towels with Thirst Pockets, 6 ct",7.57
+Paper towels,1318-3449,"H-E-B Our Finest Invent-A-Size Paper Towels, 6 Double Rolls",9.84
+Paper towels,1347-3449,"Bounty Full Sheet Triple Roll Paper Towels, 6 ct",17.62
+Paper towels,1348-3449,"Bounty Select-A-Size Triple Roll Printed Paper Towels, 6 ct",17.62
+Paper towels,1349-3449,"Velvet Big Mopper My-Size Paper Towels, 1 ct",0.77
+Paper towels,1350-3449,"Viva Signature Cloth Triple Roll Paper Towels , 8 ct",20.66
+Paper towels,1351-3449,"Kleenex Disposable Paper Hand Towels, 60 ct",3.31
+Paper towels,1352-3449,"Bounty Select-A-Size Mega Roll Paper Towels, 6 ct",23.07
+Laundry,1353-3449,"Tide Power Pods + Ultra Oxi White & Bright HE Laundry Detergent, 45 ct",20.74
+Laundry,1354-3449,"Hill Country Fare HE Liquid Laundry Detergent, 220 Loads – Clean, 220 oz",14.53
+Disposable kitchenware,1438-3449,"H-E-B Plastic Forks - Clear, 24 ct",1.56
+Disposable kitchenware,1439-3449,"H-E-B Plastic Texas-Size Spoons - Clear, 18 ct",1.56
+Disposable kitchenware,1440-3449,"H-E-B Plastic Knives - Clear, 24 ct",1.56
+Disposable kitchenware,1458-3449,"Elegant Living by H-E-B Oval Paper Platters, 24 ct",6.22
+Disposable kitchenware,1468-3449,"Hill Country Essentials Heavyweight Laminated Foam Bowls, 50 ct",5.08
+Disposable kitchenware,1469-3449,"Hill Country Essentials Party 18 oz Plastic Cups, 50 ct",4.14
+Disposable kitchenware,1470-3449,"H-E-B 44 oz Texas Size Clear Plastic Cups with Lids and Straws, 9 ct",4.14
+Disposable kitchenware,1471-3449,"H-E-B 9 oz Multipurpose Paper Cups, 54 ct",3.1
+Disposable kitchenware,1472-3449,"H-E-B 5 oz Multipurpose Paper Cups, 100 ct",3.62
+Cleaners,1473-3449,"H-E-B Ultra Concentrated Dishwashing Liquid, Value Pack - Original, 90 oz",7.88
+Cleaners,1474-3449,"H-E-B Tru Grit Disinfecting Wipes, Combo Pack, 150 ct",6.48
+Cleaners,1475-3449,"Clorox Foaming Toilet Bomb Bowl Cleaner - Lavender Clean, 5 ct",5.18
+Cleaners,1476-3449,"Lysol Disinfectant Spray, Sanitizing Antibacterial Spray, Crisp Linen, 12.5 oz",5.17
+Cleaners,1477-3449,"Lysol Kitchen Pro All Purpose Cleaner Spray, Multi Purpose Disinfecting Spray, Lemon, 22 oz",4.13
+Cleaners,1478-3449,"Clorox Rain Clean Toilet Bowl Cleaner with Bleach, 24 oz",2.79
+Cleaners,1479-3449,"Cascade Platinum Plus ActionPacs Dishwasher Detergent - Fresh, 52 ct",20.74
+Cleaners,1480-3449,"H-E-B Tru Grit Disinfecting Wipes, Large Combo Pack, 300 ct",12.46
+Cleaners,1481-3449,"Fabuloso Watermelon Multi-Purpose Cleaner, 56 oz",4.65
+Cleaners,1482-3449,"Hill Country Fare Original Scent Dishwasher Detergent Pacs, 105 ct",12.45
+Cleaners,1501-3449,"Dawn Ultra Original Scent Liquid Dish Soap, 18 oz",3.06
+Cleaners,1502-3449,"Lysol Disinfecting Wipes, Sanitizing Antibacterial Cleaning Wipes, Lemon, 80 ct",5.17
+Cleaners,1503-3449,"Field & Future by H-E-B Dishwashing Liquid - Honeysuckle & Rose, 24 oz",2.98
+Cleaners,1504-3449,"Field & Future by H-E-B Dishwashing Liquid - Fragrance Free, 24 oz",2.98
+Food storage & wraps,1549-3449,"H-E-B Texas Tough 12"" Aluminum Foil, 25 sq ft",1.75
+Food storage & wraps,1550-3449,"H-E-B Texas Tough Double Zipper Gallon Storage Bags, 40 ct",3.31
+Food storage & wraps,1551-3449,"H-E-B Texas Tough Double Zipper Sandwich Bags - Jumbo, 30 ct",2.06
+Food storage & wraps,1563-3449,"H-E-B Texas Tough Double Zipper Quart Freezer Bags - Value Pack, 80 ct",5.7
+Food storage & wraps,1564-3449,"H-E-B Texas Tough Slider Gallon Freezer Bags - Value Pack, 50 ct",7.16
+Food storage & wraps,1565-3449,"H-E-B Texas Tough Double Zipper Quart Storage Bags, 50 ct",3.31
+Food storage & wraps,1578-3449,"H-E-B Texas Tough Slider Quart Storage Bags, 40 ct",3
+Food storage & wraps,1579-3449,"H-E-B Texas Tough Slider Gallon Storage Bags, 60 ct",7.16
+Food storage & wraps,1580-3449,"H-E-B Texas Tough Rectangle Food Storage Containers, 2 pk",2.89
+Food storage & wraps,1590-3449,"H-E-B Texas Tough 12"" Aluminum Foil - Twin Pack, 400 sq ft",16.62
+Food storage & wraps,1591-3449,"H-E-B Texas Tough Freezer Paper, 150 sq ft",5.18
+Food storage & wraps,1592-3449,"H-E-B Texas Tough Extra Large Marinating Bags, 5 ct",3.1
+Water,1593-3449,"Hill Country Fare Purified Drinking Water 40 pk Bottles - Texas-Size Pack, 16.9 oz",5.57
+Water,1594-3449,"Hill Country Fare Purified Drinking Water 24 pk Bottles, 16.9 oz",3.79
+Water,1637-3449,"Glaceau Smartwater Vapor Distilled Electrolyte Water, 23.7 oz",2.02
+Water,1638-3449,"Glaceau Smartwater Vapor Distilled Electrolyte Water 6 pk Bottles, 16.9 oz",6.84
+Water,1639-3449,"Evian Natural Spring Water Bottle, 1 L",2.37
+Water,1640-3449,"Hill Country Fare Natural Texas Spring Water 32-pk Bottles, 16.9 oz",4.96
+Water,1641-3449,"H-E-B Sweetened Lime Sparkling Water 12 pk Cans, 12 oz",4.74
+Water,1642-3449,"H-E-B Sweetened Strawberry Sparkling Water 12 pk Cans, 12 oz",4.74
+Water,1643-3449,"H-E-B 1877 Lime Sparkling Mineral Water 12 pk Bottles, 12 oz",10.36
+Water,1644-3449,"H-E-B Unsweetened Unflavored Sparkling Water 12 pk Cans, 12 oz",4.74
+Water,1645-3449,"H-E-B Unsweetened Lime Sparkling Water 12 pk Cans, 12 oz",4.74
+Sports & energy drinks,1653-3449,"Hill Country Fare Sports Drinks Variety Pack 24 pk Bottles, 12 oz",11.42
+Sports & energy drinks,1654-3449,"Alani Nu Zero Sugar Energy Drink - Cherry Slush, 12 oz",2.58
+Sports & energy drinks,1655-3449,"Gatorade Fruit Punch Thirst Quencher 12 oz Bottles, 6 pk",4.97
+Sports & energy drinks,1656-3449,"Hill Country Fare Mixed Berry Sports Drink 12 pk Bottles, 12 oz",6.22
+Sports & energy drinks,1681-3449,"UPTIME Zero Sugar Energy Drink - Sweet Summer Melon, 12 oz",2.9
+Sports & energy drinks,1692-3449,"Monster Energy Original Green Energy Drink 12 pk Cans, 16 oz",22.86
+Sports & energy drinks,1693-3449,"Ghost Zero Sugar Energy Drink - Citrus, 16 oz",2.58
+Sports & energy drinks,1694-3449,"Monster Energy Lo-Carb Energy Drink 12 pk Cans, 16 oz",22.86
+Sports & energy drinks,1695-3449,"Alani Nu Zero Sugar Energy Drink - Dream Float, 12 oz",2.58
+Sports & energy drinks,1697-3449,"Gatorade Lemon-Lime Thirst Quencher, 20 oz",2.37
+Soda,1762-3449,"H-E-B Wild Red Soda, 2 L",1.78
+Soda,1763-3449,"H-E-B Original Cola 6 pk Mini Cans, 7.5 oz",3.62
+Soda,1764-3449,"H-E-B Caffeine-Free Diet Original Cola Soda, 2 L",1.78
+Soda,1765-3449,"H-E-B Orange Burst Soda, 2 L",1.78
+Soda,1766-3449,"H-E-B Diet Ginger Ale, 1 L",1.01
+Soda,1771-3449,"H-E-B Original Cola 6 pk Bottles, 16.9 oz",3.1
+Soda,1772-3449,"Coca-Cola Classic Coke Mini 7.5 oz Cans, 10 pk",6.74
+Tea,1773-3449,"H-E-B TX Brewed Unsweet Iced Tea, 52 oz",2.27
+Tea,1774-3449,"H-E-B TX Brewed Sweet Iced Tea, 52 oz",2.27
+Tea,1775-3449,"Olipop Strawberry Vanilla Soda, 12 oz",2.05
+Tea,1776-3449,"H-E-B TX Brewed Unsweet Iced Tea, 89 oz",3.62
+Tea,1777-3449,"H-E-B TX Brewed Sweet Iced Tea, 89 oz",3.62
+Tea,1778-3449,"Olipop Ginger Lemon Soda, 12 oz",2.05
+Tea,1779-3449,"H-E-B Organics Green Tea Bags, 20 ct",2.79
+Tea,1780-3449,"Red Diamond Sweet Tea, 1 gal",4.01
+Tea,1781-3449,"Olipop Orange Squeeze Soda, 12 oz",2.05
+Tea,1782-3449,"H-E-B Organics Caffeine-Free Chamomile Herbal Tea Bags, 20 ct",2.79
+Tea,1783-3449,"Red Diamond Unsweet Tea, 1 gal",4.01
+Tea,1784-3449,"Olipop Vintage Cola Soda, 12 oz",2.05
+Tea,1785-3449,"H-E-B Organics English Breakfast Black Tea Bags, 20 ct",2.79
+Tea,1786-3449,"H-E-B Organics Caffeine-Free Peppermint Herbal Tea Bags, 20 ct",2.79
+Tea,1787-3449,"H-E-B Cold Brew Herbal Tea to Go - Watermelon Mint, 12 ct",4.45
+Tea,1788-3449,"H-E-B Peach Lemon Cold Brew Herbal Tea Bag, 12 ct",4.45
+Tea,1789-3449,"H-E-B Iced Tea Single Serve Cups - Sweet Tea, 12 ct",6.74
+Tea,1790-3449,"H-E-B Half & Half Iced Tea & Lemonade Single Serve Cups, 12 ct",6.74
+Tea,1791-3449,"H-E-B Iced Tea Single Serve Cups - Lemon, 12 ct",6.74
+Tea,1792-3449,"H-E-B Pineapple Mango Cold Brew Herbal Tea Bags, 12 ct",4.45
+Tea,1793-3449,"H-E-B Herbal Iced Tea Single Serve Cups - Watermelon Pomegranate, 12 ct",6.74
+Tea,1794-3449,"H-E-B Iced Tea Single Serve Cups - Citrus, 12 ct",6.74
+Tea,1795-3449,"Red Diamond Sugar Free Tea, 1 gal",4.01
+Tea,1796-3449,"H-E-B Cherry Strawberry Cold Brew Herbal Tea Bags, 12 ct",4.45
+Tea,1797-3449,"H-E-B Decaffeinated Green Tea Single Serve Cups, 12 ct",6.07
+Tea,1798-3449,"H-E-B English Breakfast Black Tea Single Serve Cups, 12 ct",6.07
+Tea,1799-3449,"H-E-B Green Tea Single Serve Cups, 12 ct",6.07
+Tea,1800-3449,"H-E-B Ready to Brew Iced Tea - Gallon Size Black Tea Bags, 24 ct",6.22
+Tea,1801-3449,"H-E-B Caffeine-Free Chamomile Herbal Tea Single Serve Cups, 12 ct",6.07
+Tea,1802-3449,"H-E-B Chai Latte Drink Mix Single Serve Cups, 12 ct",6.64
+Tea,1803-3449,"H-E-B Organics Ready to Brew Iced Tea - Family Size Black Tea Bags, 22 ct",3.1
+Tea,1804-3449,"H-E-B Texas-Style Brewed Unsweet Iced Tea, 64 oz",2.37
+Tea,1805-3449,"H-E-B Diet Texas-Style Brewed Sweet Iced Tea, 64 oz",2.37
+Tea,1806-3449,"H-E-B Caffeine-Free Peppermint Herbal Tea Single Serve Cups, 12 ct",6.07
+Tea,1814-3449,"Hill Country Fare Chamomile Herbal Tea Bags, 25 ct",1.04
+Tea,1815-3449,"Greenside Moringa Herbal Tea Bags, 20 ct",5.7
+Tea,1816-3449,"Hill Country Fare Peppermint Herbal Tea Bags, 25 ct",1.04
+Tea,1817-3449,"McCormick 25 Count Box Caffeine Free Chamomile Tea Bags, 1.06 oz",2.48
+Tea,1818-3449,"H-E-B Caffeine-Free Chamomile Herbal Tea Bags, 40 ct",4.24
+Tea,1819-3449,"H-E-B Ready to Brew Iced Tea - Family Size Tea Bags, 24 ct",1.85
+Tea,1820-3449,"Gold Peak Sweet Tea, 89.00 fl oz",4.14
+Tea,1821-3449,"Gold Peak Slightly Sweet Iced Tea Drink, 52 oz",2.58
+Tea,1822-3449,"Brisk Lemon Iced Tea 12 pk Cans, 12 oz",6.74
+Tea,1823-3449,"Red Diamond Sweet Tea, 16 oz",1.53
+Tea,1824-3449,"H-E-B Diet Citrus Green Tea 12 pk Bottles, 16.9 oz",4.66
+Tea,1825-3449,"Gold Peak Zero Sugar Sweet Tea, 89 oz",4.14
+Tea,1826-3449,"Luzianne Tea Family Bags 24ct, 24 ct",2.33
+Juice,1850-3449,"Olipop Prebiotic Soda Classic Grape 4 pk Cans, 12 oz",9.34
+Juice,1851-3449,"H-E-B 100% Pineapple Mango Juice, 48 oz",3.52
+Juice,1852-3449,"H-E-B 100% Fruit Punch Juice 10 oz Bottles - Texas-Size Pack, 24 pk",19.53
+Juice,1853-3449,"Honest Kids Organic Berry Lemonade Juice Drink 8 pk Boxes, 6 oz",4.01
+Juice,1854-3449,"H-E-B 100% Apple Juice 24 pk Bottles - Texas-Size Pack, 10 oz",19.53
+Juice,1855-3449,"Ocean Spray 100% Cranberry Juice, 3 L",6.62
+Juice,1872-3449,"Capri Sun Juice Drink Blend 30 pk Pouches - Variety Pack, 6 oz",9.13
+Juice,1873-3449,"Hill Country Fare Fruit Punch Drink, 1 gal",1.54
+Juice,1874-3449,"Hill Country Fare Pink Lemonade Drink, 1 gal",1.54
+Juice,1875-3449,"H-E-B 100% Orange Juice - No Pulp, 89 oz",7.25
+Juice,1876-3449,"Sunny D Tangy Original Orange Flavored Citrus Punch, 1 gal",3.79
+Juice,1877-3449,"Simply Orange Pulp Free 100% Pure Squeezed Orange Juice, 4 pk",5.18
+Juice,1878-3449,"Capri Sun Pacific Cooler Juice Drink Blend 10 pk Pouches, 6 oz",3.1
+Wine,1906-3449,"Kendall-Jackson Appelation Series Mendocino County Chardonnay White Wine, 750 mL",15.58
+Wine,1907-3449,"Lapis Luna Zinfandel, 750 mL",15.58
+Wine,1908-3449,"Welcome to Wine Company Welcome to Italy Prosecco Sparkling Wine, 750 ml",15.58
+Wine,1909-3449,"Josh Cellars Buttery Chardonnay Reserve, 750 ml",13.51
+Wine,1910-3449,"Tapestry Sauvignon Blanc, 750 ml",18.71
+Beer,1982-3449,"Bud Light Lager Beer 18 pk Cans, 12 oz",19.74
+Beer,1983-3449,"Dos Equis Lager Especial Beer 12 oz Cans, 12 pk",15.58
+Beer,1984-3449,"Corona Extra Mexican Lager Import Beer 12 oz Bottles, 18 pk, 12 oz",27.02
+Beer,1985-3449,"Coors Light Beer 16 oz Aluminum Bottles, 15 pk",20.26
+Beer,1986-3449,"Miller Lite Beer 16 oz Resealable Aluminum Bottles, 15 pk",20.26
+Beer,1987-3449,"Modelo Especial Mexican Lager Import Beer 12 oz Cans, 18 pk, 12 oz",25.98
+Beer,1988-3449,"Corona Extra Mexican Lager Import Beer 6 pk Bottles, 12 oz",11.42
+Beer,1989-3449,"Karbach Hopadillo Juicy IPA 6 pk Cans, 12 oz",11.16
+Beer,1990-3449,"Karbach Hopadillo IPA Beer 12 pk Cans, 12 oz",19.74
+Beer,1991-3449,"Bud Light Beer 6 pk Cans, 16 oz",10.12
+Beer,1992-3449,"Michelob ULTRA Superior Light Lager Beer 6 pk Bottles, 12 oz",11.16
+Beer,2004-3450,"Michelob ULTRA Superior Light Lager Beer 30 pk Cans, 12 oz",29.06
+Beer,2005-3450,"Busch Beer 6 pk Cans, 16 oz",7.78
+Beer,2009-3450,"Coors Light Beer 6 pk Cans, 16 oz",10.12
+Beer,2010-3450,"Modelo Especial Mexican Lager Import Beer 12 oz Bottles, 12 pk, 12 oz",18.7
+Beer,2011-3450,"Coors Light Beer 12 pk Cans, 12 oz",14.28
+Beer,2012-3450,"Heineken Lager Beer 6 pk Bottles, 12 oz",11.72
+Yogurt,2013-3450,"H-E-B 17g Protein Nonfat Greek Yogurt - Plain, 32 oz",5.08
+Yogurt,2028-3450,"Stonyfield Organic Low-Fat Yogurt - Strawberry & Strawberry-Banana, 6 ct",4.91
+Yogurt,2029-3450,"Dannon Danimals Smoothie 18 pk Bottles Variety Pack - Strawberry & Strawberry & Banana, 3.1 oz",7.74
+Yogurt,2030-3450,"Stonyfield Organic Kids Low-Fat Yogurt Smoothie 3.1 oz Bottles - Very Berry, 6 ct",4.5
+Yogurt,2031-3450,"YoCrunch Low-Fat Strawberry With M&Ms Yogurt, 4 ct",3.62
+Yogurt,2032-3450,"H-E-B 13g Protein Nonfat Greek Yogurt - Vanilla, 5.3 oz",1.2
+Yogurt,2033-3450,"Higher Harvest by H-E-B Dairy-Free Coconut-Based Yogurt – Vanilla, 24 oz",5.28
+Yogurt,2034-3450,"Chobani Flip Low-Fat Cookies & Cream Greek Yogurt, 4 ct",4.97
+Yogurt,2035-3450,"Light + Fit Vanilla Fat Free Yogurt, 32 oz",3.3
+Yogurt,2036-3450,"The Greek Gods Honey Greek Yogurt, 32 oz",5.39
+Yogurt,2071-3450,"Chobani Flip Low-Fat Cookies & Cream Greek Yogurt, 4.5 oz",1.44
+Yogurt,2072-3450,"Chobani Flip Low-Fat Coconut Caramel Cookie Greek Yogurt, 4.5 oz",1.44
+Sour cream,2073-3450,"H-E-B Regular Sour Cream, 16 oz",2.58
+Sour cream,2097-3450,"Nortenita Creamy Mexican Blend, 15 oz",5.7
+Sour cream,2098-3450,"Nortenita Creamy Mexican Blend Crema, 8.1 oz",3.72
+Sour cream,2099-3450,"Mamá Lycha Crema Salvadoreña Sour Cream, 30 oz",8.1
+Sour cream,2100-3450,"Mamá Lycha Crema Salvadorena Sour Cream, 14 oz",4.46
+Sour cream,2106-3450,"Green Valley Lactose Free Sour Cream, 12 oz",3.48
+Sour cream,2107-3450,"La Vaquita Crema Salvadoreña Sour Cream, 8 oz",2.59
+Milk,2108-3450,"H-E-B Whole Milk, 1 gal",3.45
+Milk,2109-3450,"Central Market Organics 2% Reduced Fat Milk, 1/2 gal",4.14
+Milk,2110-3450,"Silk Unsweetened Vanilla Almond Milk, 64 oz",3.1
+Milk,2111-3450,"Hill Country Fare Whole Milk, 1 gal",3.14
+Milk,2112-3450,"H-E-B Whole Milk, 1/2 gal",1.89
+Milk,2113-3450,"Silk Vanilla Almond Milk, Half Gallon, 64 oz",3.1
+Milk,2114-3450,"Central Market Organics Whole Milk, 1/2 gal",4.14
+Milk,2123-3450,"Hill Country Fare Whole Milk, 1/2 gal",1.58
+Milk,2136-3450,"Horizon Organic Grassfed 2% Reduced Fat Milk, 59 oz",6.22
+Milk,2137-3450,"Central Market Organics Fat Free Milk, 1 gal",7.26
+Milk,2138-3450,"H-E-B Mootopia Lactose-Free Reduced Fat 2% Chocolate Milk, 1/2 gal",5.18
+Milk,2139-3450,"Lactaid 100% Lactose Free 2% Reduced Fat Milk, 96 oz",6.64
+Milk,2140-3450,"Lactaid Whole Milk, 96 oz",6.64
+Milk,2141-3450,"Hill Country Fare 2% Reduced Fat Milk, 1 gal",3.14
+Milk,2152-3450,"H-E-B Low Fat 1% Milk, 1 gal",3.45
+Milk,2160-3450,"Horizon Organic 2% Reduced Fat Dha Omega-3 Milk, Half Gallon, 64 oz",5.74
+Eggs & egg substitutes,2171-3450,"Hill Country Fare Grade A Extra Large White Eggs, 18 ct",9.55
+Eggs & egg substitutes,2172-3450,"Central Market Pasture-Raised Heirloom Colorful Large Grade A Eggs, 12 ct",10.65
+Eggs & egg substitutes,2197-3450,"H-E-B Organics Grade A Cage Free Jumbo Brown Eggs, 12 ct",7.68
+Eggs & egg substitutes,2198-3450,"Egg Beaters Pour Spout, 32 oz",5.16
+Eggs & egg substitutes,2199-3450,"Kramer Farms Hard Boiled Eggs, 6 ct",3.1
+Eggs & egg substitutes,2200-3450,"NestFresh Hard Boiled Eggs, 6 ct",3.93
+Eggs & egg substitutes,2201-3450,"Higher Harvest by H-E-B Low-Carb Lifestyle Egg Bites – Uncured Bacon & Cheese, 2 ct",4.15
+Eggs & egg substitutes,2208-3450,"Bob Evans Liquid Egg Whites, 32 oz",6.06
+Eggs & egg substitutes,2209-3450,"Eggland's Best Grade A Cage Free Extra Large White Eggs, 12 ct",7.53
+Eggs & egg substitutes,2210-3450,"H-E-B Organics Grade A Cage-Free Large Brown Eggs, 12 ct",7.26
+Eggs & egg substitutes,2211-3450,"Kramer Farms Hard Boiled Eggs, 2 ct",1.75
+Eggs & egg substitutes,2212-3450,"Higher Harvest by H-E-B Low-Carb Lifestyle Egg Bites – Chile Verde, 2 ct",4.15
+Cheese,2213-3450,"H-E-B Mexican Style Shredded Cheese Blend, 16 oz",5.19
+Cheese,2214-3450,"H-E-B Parmesan Shredded Cheese, 6 oz",2.8
+Cheese,2246-3450,"H-E-B 6 Cheese Italian Style Shredded Cheese Blend, 8 oz",3.1
+Cheese,2247-3450,"H-E-B Shaved Parmesan Cheese, 6 oz",2.8
+Cheese,2248-3450,"H-E-B Mild Cheddar Cheese, 8 oz",3.1
+Cheese,2249-3450,"H-E-B Gouda Cheese, 8 oz",3.1
+Cheese,2250-3450,"H-E-B Singles Swiss Sliced Cheese, 16 ct, 12 oz",3.63
+Cheese,2251-3450,"H-E-B Mexican Style Shredded Cheese Blend, Thick Cut, 8 oz",3.1
+Cheese,2252-3450,"H-E-B Colby & Monterey Jack Cheese, 16 oz",5.19
+Cheese,2253-3450,"H-E-B Three Cheddar Shredded Cheese Blend, 8 oz",3.1
+Cheese,2254-3450,"H-E-B Low Fat Ricotta Cheese, 15 oz",3.01
+Cheese,2255-3450,"H-E-B Longhorn Style Cheddar Cheese, 16 oz",5.19
+Cheese,2256-3450,"H-E-B Mild Cheddar Cheese, 16 oz",5.19
+Cheese,2257-3450,"H-E-B American Cheese, 16 oz",5.19
+Cheese,2258-3450,"H-E-B Deluxe American Cheese, Slices, 16 ct",3.32
+Cheese,2259-3450,"H-E-B Easy Melt Queso Blanco Cheese Spread, 16 oz",4.67
+Cheese,2260-3450,"H-E-B Easy Melt Singles American Sliced Cheese, 16 ct, 12 oz",2.59
+Cheese,2261-3450,"H-E-B Sharp Cheddar Shredded Cheese, 32 oz",9.35
+Cheese,2262-3450,"Cacique Panela Cheese, 10 oz",4.15
+Cheese,2263-3450,"H-E-B Low Moisture Part-Skim Mozzarella Shredded Cheese, Thick Cut, 8 oz",3.1
+Cheese,2264-3450,"H-E-B Copper Kettle Parmesan Grated Cheese, 5 oz",3.42
+Cheese,2265-3450,"H-E-B Low Moisture Part-Skim Mozzarella Shredded Cheese, 8 oz",3.1
+Cheese,2266-3450,"H-E-B Mexican Style Shredded Cheese Blend, 8 oz",3.1
+Cheese,2267-3450,"H-E-B Queso Fresco Part-Skim Milk Cheese, 16 oz",5.09
+Cheese,2268-3450,"H-E-B American Sliced Cheese, 24 ct, 16 oz",4.13
+Cheese,2269-3450,"H-E-B Singles Reduced Fat Milk American Cheese Slices, 16 ct, 12 oz",3.63
+Cheese,2270-3450,"Organic Valley Pasture-Raised Sharp Cheddar Raw Cheese, 8 oz",6.02
+Cheese,2271-3450,"Organic Pastures Raw Cheddar Shredded Cheese, 8 oz",6.23
+Cheese,2272-3450,"American Accent Sandwich Slices - American Cheese Flavor, 16 ct, 9.6 oz",1.53
+Butter & margarine,2273-3450,"Central Market European Style Salted Butter, 4 ct",6.22
+Butter & margarine,2274-3450,"Central Market European Style Unsalted Butter, 4 ct",6.22
+Butter & margarine,2275-3450,"Land O Lakes Unsalted Sweet Butter Sticks, 4 ct",5.49
+Butter & margarine,2276-3450,"H-E-B Sweet Cream Salted Butter, 4 ct",5.18
+Butter & margarine,2291-3450,"Land O Lakes Butter with Canola Oil, 24 oz",6.82
+Butter & margarine,2292-3450,"I Can't Believe It's Not Butter! Original Spread, 15 oz",4.13
+Butter & margarine,2293-3450,"H-E-B Salted Sweet Cream Spreadable Butter, 15 oz",4.04
+Butter & margarine,2294-3450,"Country Crock Original Vegetable Oil Spread, 15 oz",3.57
+Butter & margarine,2295-3450,"Falfurrias Sweet Cream Salted Butter, 16 oz",5.49
+Butter & margarine,2296-3450,"Kerrygold Grass-Fed Unsalted Pure Irish Butter, 8 oz",4.51
+Butter & margarine,2297-3450,"Blue Bonnet Vegetable Oil Spread, 16 oz",1.33
+Butter & margarine,2298-3450,"H-E-B Sweet Cream Salted Butter, 2 ct",2.62
+Butter & margarine,2299-3450,"H-E-B Sweet Cream Unsalted Butter, 2 ct",2.62
+Butter & margarine,2300-3450,"Hill Country Fare Salted Butter Sticks, 4 ct",4.12
+Butter & margarine,2301-3450,"Hill Country Fare Unsalted Butter Sticks, 4 ct",4.12
+Butter & margarine,2302-3450,"Kerrygold Garlic and Herb Butter, 3.5 oz",2.75
+Butter & margarine,2303-3450,"Hill Country Fare Country Spread, 15 oz",2.37
+Butter & margarine,2304-3450,"H-E-B Whipped Salted Butter, 8 oz",2.68
+Butter & margarine,2305-3450,"Parkay Squeeze Vegetable Oil Spread, 12 oz",2.58
+Butter & margarine,2306-3450,"Falfurrias Unsalted Butter Quarters, 4 ct",5.49
+Biscuit & cookie dough,2389-3450,"Nestle Tollhouse Cookie Dough - Mini Chocolate Chip, 40 ct",5.01
+Biscuit & cookie dough,2390-3450,"Pillsbury Banana Bread Batter, 30 oz",5.13
+Biscuit & cookie dough,2391-3450,"Pillsbury Chocolate Chip Cookie Dough, 16.5 oz",4.01
+Biscuit & cookie dough,2392-3450,"Jus-Rol Snap Pizza Dough, 21.2 oz",4.66
+Tofu and plant-based,2393-3450,"Beyond Meat Beyond Beef Plant-Based Ground, 16 oz",8.31
+Tofu and plant-based,2394-3450,"Beyond Meat Beyond Burger Frozen Plant-Based Burger Patties, 2 ct",5.71
+Tofu and plant-based,2406-3450,"Field Roast Plant-Based Breakfast Sausage Links - Apple Maple, 9.3 oz",5.71
+Tofu and plant-based,2407-3450,"Impossible Lite Ground Beef Meat from Plants, 12 oz",7.57
+Tofu and plant-based,2408-3450,"Lightlife Tempeh Plant-Based Superfood - Original, 8 oz",4.15
+Tofu and plant-based,2409-3450,"Nasoya Pasta Zero Pasta Zero Shirataki Spaghetti, 8 oz",2.9
+Tofu and plant-based,2410-3450,"Impossible Ground Beef Meat from Plants, 12 oz",7.05
+Tofu and plant-based,2446-3450,"Beyond Meat Beyond Breakfast Sausage Frozen Plant-Based Patties - Original, 6 ct, 7.4 oz",4.6
+Tofu and plant-based,2447-3450,"Mori-Nu Silken Extra Firm Tofu, 12.3 oz",2.48
+Tofu and plant-based,2448-3450,"Nasoya Organic Silken Tofu, 16 oz",4.14
+Seafood,2449-3450,"H-E-B Fish Market Fresh Marinated Atlantic Salmon on Cedar Plank - Orange Sauce, Avg. 0.78 lb",14.17
+Seafood,2450-3450,"H-E-B Fish Market Fresh Atlantic Salmon Portions, 4 ct",20.8
+Seafood,2504-3450,"Meal Simple by H-E-B Jumbo Lump Crab Cakes, 2 ct",14.56
+Seafood,2505-3450,"H-E-B Wild Caught Jumbo Snow Crab Clusters, lb",17.65
+Seafood,2506-3450,"H-E-B Fish Market Salmon & Crawfish Burger Patties - Creole, 2 ct",7.28
+Seafood,2507-3450,"H-E-B Fish Market Fresh Whole Catfish, Head On, lb",4.13
+Seafood,2508-3450,"H-E-B Fish Market Peeled Deveined Tail-Off Colossal White Raw Shrimp, 16 - 20 ct/lb, lb",9.33
+Lunchmeat,2509-3450,"H-E-B Deli Oven Roasted Turkey Breast, Sandwich Sliced, Avg. 0.5 lb",5.98
+Lunchmeat,2510-3450,"H-E-B Deli Oven Roasted Turkey Breast, Custom Sliced, lb",11.95
+Lunchmeat,2511-3450,"Oscar Mayer Deli Fresh Honey Smoked Sliced Turkey Breast Lunch Meat - Family Pack, 16 oz",7.26
+Lunchmeat,2520-3450,"H-E-B Mesquite-Smoked Turkey Breast & Ham Lunch Meat - Combo Pack, 16 oz",8.31
+Lunchmeat,2521-3450,"H-E-B Deli Cajun-Style Fried Turkey Breast, Sandwich Sliced, Avg. 0.5 lb",5.98
+Lunchmeat,2522-3450,"H-E-B Deli Honey Maple Uncured Ham, Sandwich Sliced, Avg. 0.5 lb",5.46
+Lunchmeat,2523-3450,"H-E-B Deli Rotisserie-Flavored Chicken Breast, Custom Sliced, lb",10.91
+Lunchmeat,2536-3450,"H-E-B Mesquite-Smoked Jalapeño Turkey Breast Lunch Meat, 9 oz",4.67
+Lunchmeat,2537-3450,"H-E-B Reserve Slow-Roasted Turkey Breast Lunch Meat, 8 oz",5.71
+Lunchmeat,2538-3450,"H-E-B Honey Ham Lunch Meat, 9 oz",4.67
+Lunchmeat,2539-3450,"H-E-B Reserve Texas Wildflower Honey Uncured Ham Lunch Meat, 8 oz",5.71
+Lunchmeat,2540-3450,"H-E-B Black Forest Ham Lunch Meat, 9 oz",4.67
+Lunchmeat,2541-3450,"H-E-B Thick-Sliced Mesquite-Smoked Ham, 8 oz",3.63
+Lunchmeat,2542-3450,"Applegate Uncured Genoa Salami Sliced, 4 oz",6.23
+Lunchmeat,2543-3450,"H-E-B Thick-Sliced Oven-Roasted Turkey Breast Lunch Meat, 8 oz",3.63
+Lunchmeat,2544-3450,"H-E-B Deli Lower Sodium Honey Ham, Custom Sliced, lb",10.91
+Lunchmeat,2545-3450,"H-E-B Reserve Cherrywood-Smoked Uncured Ham Lunch Meat - Family Pack, 16 oz",10.39
+Lunchmeat,2546-3450,"H-E-B Mesquite-Smoked Ham Lunch Meat, 9 oz",4.67
+Lunchmeat,2547-3450,"H-E-B Deli Honey-Smoked Turkey Breast, Custom Sliced, lb",11.95
+Lunchmeat,2548-3450,"H-E-B Thick-Sliced Honey Ham Lunch Meat, 8 oz",3.63
+Lunchmeat,2549-3450,"H-E-B Natural In-House Roasted Traditional Turkey Breast, Custom Sliced, lb",12.99
+Lunchmeat,2550-3450,"Hill Country Fare Cooked Ham Lunch Meat, 12 oz",3.32
+Lunchmeat,2551-3450,"H-E-B Deli Cajun-Style Fried Turkey Breast, Custom Sliced, lb",11.95
+Lunchmeat,2552-3450,"Hill Country Fare Cooked Ham Lunch Meat - Value Pack, 32 oz",6.23
+Lunchmeat,2553-3450,"H-E-B Natural In-House Roasted Cajun Turkey Breast, Custom Sliced, lb",12.99
+Lunchmeat,2554-3450,"H-E-B Thick Sliced Honey Turkey Breast Lunch Meat, 8 oz",3.63
+Lunchmeat,2555-3450,"H-E-B Natural In-House Roasted Herb-Encrusted Turkey Breast, Custom Sliced, lb",12.99
+Lunchmeat,2556-3450,"H-E-B Reserve Applewood-Smoked Turkey Breast Lunch Meat, 8 oz",5.71
+Sausage,2574-3450,"aidells Smoked Pork Andouille Sausage Links - Cajun Style, 4 ct, 12 oz",5.44
+Frozen meat,2649-3450,"H-E-B Natural Fully Cooked Frozen Southern Style Breaded Chicken Strips, 24 oz",9.35
+Frozen meat,2650-3450,"H-E-B Frozen Fully Cooked Sesame Chicken, 24 oz",7.55
+Frozen meat,2662-3450,"Tyson Frozen Chicken Nuggets, 29 oz",6.72
+Frozen meat,2678-3450,"Realgood Foods Co. Frozen Gluten-Free Lightly Breaded Chicken Strips, 20 oz",8.17
+Frozen meat,2679-3450,"Purnell's Old Folks All Natural Country Sausage Patties, 24 ct",11.3
+Frozen meat,2680-3450,"H-E-B Fully Cooked Frozen Seasoned Chicken Breast Fajitas, 12 oz",5.19
+Frozen meat,2681-3450,"H-E-B Frozen Fully Cooked Bone-In Wings - Buffalo Style, 32 oz",12.47
+Frozen meat,2682-3450,"H-E-B Fully Cooked Frozen Seasoned Chicken Breast Fajitas - Texas-Size Pack, 26 oz",10.39
+Frozen meat,2683-3450,"H-E-B Fully Cooked Frozen Beef Burgers, 6 ct",12.47
+Frozen meat,2684-3450,"Tyson Frozen Spicy Chicken Patties, 23 oz",6.72
+Fresh meat,2695-3450,"H-E-B Boneless Beef New York Strip Steak, Avg. 0.63 lb",8.18
+Fresh meat,2696-3450,"H-E-B Assorted Bone-in Pork Chops - Value Pack, Avg. 3.25 lbs",9.43
+Fresh meat,2697-3450,"aidells Smoked Pork Andouille Sausage Links - Cajun Style, 4 ct, 12 oz",5.44
+Fresh meat,2698-3450,"H-E-B Grass Fed & Finished Ground Beef, 93% Lean, 1 lb",10.39
+Fresh meat,2699-3450,"H-E-B Bone-in Center Loin Pork Chops, Thick Cut, Avg. 1.34 lbs",5.28
+Fresh meat,2700-3450,"Oscar Mayer Naturally Hardwood Smoked Bacon, 22 oz",8.81
+Fresh meat,2701-3450,"H-E-B Natural Boneless Chicken Breast Tenders, Avg. 1.8 lbs",10.28
+Fresh meat,2702-3450,"H-E-B Seasoned Chicken Thighs for Fajitas, Avg. 3.7 lbs",11.51
+Fresh meat,2703-3450,"Oscar Mayer Jalapeo Cheddar Stuffed Hot Dogs, 16 oz",4.13
+Fresh meat,2704-3450,"H-E-B Grass Fed & Finished Ground Beef Burger Patties, 85% Lean, 4 ct",11.43
+Fresh meat,2705-3450,"H-E-B Original Bacon, 12 oz",4.49
+Fresh meat,2706-3450,"Oscar Mayer Original Center Cut Bacon, 12 oz",6.73
+Fresh meat,2707-3450,"H-E-B Natural Boneless Chicken Breast, Thin Sliced, Avg. 1.7 lbs",8.82
+Fresh meat,2708-3450,"H-E-B Mi Tienda Seasoned Beef Skirt Steak for Fajitas, Avg. 3.9 lbs",36.47
+Fresh meat,2709-3450,"Central Market Organic Air-Chilled Boneless Skinless Chicken Breasts, Avg. 1.4 lbs",13.09
+Fresh meat,2720-3450,"H-E-B Premium Pork Breakfast Sausage - Regular, 16 oz",4.15
+Fresh meat,2721-3450,"H-E-B Premium Beef Smoked Sausage Links - Texas-Size Pack, 10 ct",14.55
+Fresh meat,2722-3450,"H-E-B Bone-in Center Loin Ribeye Pork Chops, Thick Cut - Value Pack, Avg. 2.85 lbs",10.35
+Fresh meat,2723-3450,"H-E-B Texas Heritage Beef Smoked Sausage, 12 oz",4.99
+Fresh meat,2724-3450,"H-E-B Boneless Beef Ribeye Steaks - USDA Select - Value Pack, Avg. 2.15 lbs",31.28
+Fresh meat,2725-3450,"H-E-B Natural St. Louis-Style Pork Spareribs, Avg. 3.43 lbs",16.36
+Fresh meat,2726-3450,"H-E-B Grass Fed & Finished Ground Beef, 85% Lean, 2 lbs",16.63
+Fresh meat,2737-3450,"H-E-B Original Thick Cut Bacon, 24 oz",9.35
+Fresh meat,2738-3450,"H-E-B Tenderized Beef Inside Skirt Steaks - Value Pack, Avg. 1.75 lbs",18.92
+Fresh meat,2739-3450,"Fresh Whole Boneless Pork Tenderloin, Avg. 2.26 lbs",7.98
+Fish,2749-3450,"Tetra Pond Sticks, 3.53 oz",6.22
+Fish,2750-3450,"Tetra Min Tropical Flakes, 2.2 oz",7.72
+Fish,2751-3450,"Tetra Color Tropical Flakes Natural Color Enhancer, 2 oz",8.03
+Fish,2752-3450,"Tetra Fin Goldfish Flakes, 2 oz",4.75
+Reptiles,2753-3450,"Tetra ReptoMin Floating Food Sticks for Aquatic Turtles Newts & Frogs, 3.7 oz",5.6
+Reptiles,2754-3450,"Tetra ReptoMin Floating Food Sticks for Aquatic Turtles Newts & Frogs, 1.94 oz",3.09
+Small animals,2755-3450,"Brown's Gourmet Pet Rabbit Food, 4 lb",9.34
+Small animals,2756-3450,"Brown's Extreme! Trail Mix Treat Bars for Large Animals, 5 oz",4.34
+Small animals,2757-3450,"Brown's Natural Soft Pine Bedding & Litter, 20 L",5.18
+Small animals,2758-3450,"FM Brown's Extreme Natural Timothy Hay, 24 oz",5.56
+Small animals,2759-3450,"Brown's Extreme! Yogurt Yummies Small Animal Treats, 2.75 oz",2.79
+Small animals,2760-3450,"Brown's Extreme! Fruit & Nut Small Animal Treats, 6 oz",3.1
+Small animals,2761-3450,"Brown's Timothy Hay Cubes, 10 oz",2.48
+Birds,2762-3450,"Hill Country Fare Wild Bird Seed, 20 lb",12.36
+Birds,2763-3450,"Thomas Moore Feed Texas Wild Bird Seed, 40 lb",24.42
+Birds,2764-3450,"Hill Country Fare Wild Bird Seed, 4 lb",2.79
+Birds,2765-3450,"Hill Country Fare Black Oil Sunflower Seed Bag, 10 lb",10.38
+Birds,2794-3450,"Home Bazaar Chicken Coop Bird Feeder, 9.5""",20.78
+Birds,2795-3450,More Birds Two Cake Suet Buffet Feeder,13.4
+Birds,2796-3450,"H-E-B Texas Songbird Birdseed Bag, 20 lb",20.78
+Birds,2797-3450,"Thomas Moore Feed Thomas Moore Complete Layer Chicken Feed For Backyard Flock, 20 lbs",10.28
+Birds,2798-3450,"FM Browns Gourmet Cracked Corn Wild Bird Food, 4 lb",2.58
+Birds,2799-3450,"Morning Song Trail Mix for Songbirds, 5 lb",7.57
+Cats,2800-3450,"Heritage Ranch by H-E-B Grain-Free Adult Indoor Dry Cat Food - Chicken & Chickpea, 6 lbs",12.36
+Cats,2801-3450,"Heritage Ranch by H-E-B Adult Indoor Grain-Free Dry Cat Food - Salmon & Chickpea, 6 lb",12.88
+Cats,2802-3450,"Blue Buffalo Blue Wilderness Chicken with LifeSource Bits Dry Indoor Cat Food, 4 lb",21.82
+Cats,2811-3450,"Blue Buffalo Bursts Seafood Cat Treats, 2 oz",1.73
+Cats,2812-3450,"Purina Friskies Wet Cat Food Pate Variety Pack, Seafood Favorites, 5.5 oz",24.92
+Cats,2813-3450,"H-E-B Texas Pets Dry Cat Food - 4 Flavor Morsels, 30 lbs",25.37
+Cats,2814-3450,"Blue Buffalo Tastefuls Adult Chicken Fish & Shrimp Tuna Flaked Wet Cat Food Variety Pack, 12 ct",15.06
+Cats,2815-3450,"Cat Chow Purina Indoor Dry Cat Food, Hairball + Healthy Weight, 6.3 lb",12.21
+Cats,2822-3450,"Heritage Ranch by H-E-B Grain-Free Wet Cat Food - Whitefish Dinner, 3 oz",0.78
+Cats,2823-3450,"Heritage Ranch by H-E-B Limited Ingredient Grain-Free Wet Cat Treat -Tuna & Shrimp, 2 oz",0.98
+Dogs,2870-3450,"Freshpet Slice & Serve Grain Free Chicken Fresh Dog Food, 1.5 lb",7.14
+Dogs,2871-3450,"Blue Buffalo Nudges Chicken Jerky Cuts Natural Dog Treats, 16 oz",13.5
+Dogs,2872-3450,"Freshpet Fresh from the Kitchen Home Cooked Chicken Fresh Dog Food, 4.5 lb",27.74
+Dogs,2873-3450,"Woof & Whiskers Texas Boot, EACH",6.24
+Dogs,2880-3450,Woof & Whiskers Dumbbell,5.2
+Dogs,2915-3450,"Nutro Wholesome Essentials Farm-Raised Chicken Brown Rice & Sweet Potato Recipe Dry Dog Food, 5 lb",21.82
+Dogs,2916-3450,"Woof & Whiskers Bumblebee, EACH",7.28
+Dogs,2917-3450,"IAMS Proactive Health Small Breed Chicken Recipe Adult Dry Dog Food, 7 lb",16.61
+Dogs,2918-3450,"H-E-B Market Blend Adult Dry Dog Food - Chicken & Rice, 38.5 lbs",54.02
+Dogs,2919-3450,"Purina ONE Chicken and Rice Formula Dry Dog Food, 16.5 lb",31.49
